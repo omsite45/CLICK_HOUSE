@@ -1,0 +1,53 @@
+## client.py
+import clickhouse_connect
+from .ingest import IngestionMixin
+from .query import QueryMixin
+from .metadata import MetadataMixin
+from .llm import LLMMixin
+from .embeddings import EmbeddingMixin
+
+class ClickHouseAI(IngestionMixin, QueryMixin, MetadataMixin,LLMMixin, EmbeddingMixin):
+
+    def __init__(
+        self,
+        host="localhost",
+        port=8123,
+        database="default",
+        user="default",
+        password="admin123",
+        provider=None,
+
+    ):
+        self.provider = provider
+        self.client = clickhouse_connect.get_client(
+            host=host,
+            port=port,
+            username=user,
+            password=password,
+            database=database,
+        )
+
+    def query(self, sql: str):
+        result = self.client.query(sql)
+
+        return {
+            "columns": result.column_names,
+            "rows": result.result_rows,
+            "row_count": len(result.result_rows),
+        }
+
+## terminal
+# http://localhost:8123/webterminal
+
+
+
+
+DROP TABLE IF EXISTS order_items;
+DROP TABLE IF EXISTS orders;
+DROP TABLE IF EXISTS payments;
+DROP TABLE IF EXISTS inventory;
+DROP TABLE IF EXISTS reviews;
+DROP TABLE IF EXISTS products;
+DROP TABLE IF EXISTS customers;
+DROP TABLE IF EXISTS suppliers;
+DROP TABLE IF EXISTS warehouses;

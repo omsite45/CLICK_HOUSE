@@ -1,0 +1,2001 @@
+supplier_id,supplier_name,country,contact_email,phone,rating
+1,Elite Supply,Japan,sales1@example.com,885-917-2662,4.14
+2,United Distribution,India,sales2@example.com,(829)950-2298x951,3.9
+3,United Trading,China,sales3@example.com,+1-476-861-4758x178,4.3
+4,Prime Trading,India,sales4@example.com,001-839-336-5038,4.96
+5,National Distribution,China,sales5@example.com,(726)986-6264,3.55
+6,Vertex Industries,Italy,sales6@example.com,+1-586-370-1958,4.12
+7,National Trading,Italy,sales7@example.com,(250)424-2691x626,3.53
+8,Vertex Retail,Italy,sales8@example.com,001-991-544-6893x536,4.13
+9,Advanced Supply,Italy,sales9@example.com,+1-457-893-6163x3066,4.31
+10,National Supply,Germany,sales10@example.com,5656862478,3.91
+11,United Solutions,Canada,sales11@example.com,(959)552-7044x50248,4.43
+12,National Solutions,Canada,sales12@example.com,919-208-6451,4.4
+13,NextGen Trading,Germany,sales13@example.com,(768)679-0618x7572,4.89
+14,Dynamic Retail,Japan,sales14@example.com,+1-240-930-2071x06521,3.59
+15,Vertex Industries,UK,sales15@example.com,(519)291-0749x583,4.05
+16,Future Distribution,India,sales16@example.com,001-966-515-5496,3.52
+17,National Distribution,Germany,sales17@example.com,767-759-8282x08341,3.83
+18,Elite Manufacturing,Japan,sales18@example.com,455-826-6885x0323,4.47
+19,Prime Technologies,China,sales19@example.com,001-310-707-6376x633,4.89
+20,Vertex Technologies,France,sales20@example.com,870.278.1909x13284,4.46
+21,United Logistics,France,sales21@example.com,984-397-1255,4.8
+22,National Electronics,France,sales22@example.com,981-883-2453x82431,3.89
+23,Prime Technologies,Canada,sales23@example.com,+1-724-478-6507x43894,3.94
+24,National Electronics,Germany,sales24@example.com,350-925-5482x90083,3.88
+25,Vertex Technologies,Germany,sales25@example.com,001-822-548-1625x4314,4.41
+26,NextGen Technologies,USA,sales26@example.com,(441)720-1704x012,4.99
+27,Elite Technologies,India,sales27@example.com,(899)436-4688,4.83
+28,NextGen Distribution,USA,sales28@example.com,+1-420-255-3571x61651,4.23
+29,United Distribution,Japan,sales29@example.com,(800)531-3169x587,4.11
+30,Prime Distribution,USA,sales30@example.com,(397)647-9097,3.74
+31,Prime Electronics,France,sales31@example.com,+1-620-283-1457x7931,4.99
+32,United Industries,Italy,sales32@example.com,284.805.2253,3.76
+33,NextGen Distribution,India,sales33@example.com,(707)599-8360,4.45
+34,Prime Technologies,Germany,sales34@example.com,877.781.5799,4.89
+35,Vertex Retail,UK,sales35@example.com,203-240-9000x5906,4.66
+36,Vertex Distribution,USA,sales36@example.com,(534)244-7741x8842,3.88
+37,Future Retail,Italy,sales37@example.com,244.863.0514,4.81
+38,Future Logistics,UK,sales38@example.com,789-849-7143x7265,4.52
+39,Global Supply,USA,sales39@example.com,(428)440-9270x805,3.85
+40,National Electronics,Italy,sales40@example.com,001-304-310-1137x1300,4.31
+41,National Manufacturing,China,sales41@example.com,2508074495,4.51
+42,National Technologies,South Korea,sales42@example.com,001-841-359-1716x4115,4.56
+43,National Supply,Canada,sales43@example.com,706.486.5305x2358,3.71
+44,Vertex Manufacturing,USA,sales44@example.com,(505)352-6096x70172,4.11
+45,Global Solutions,India,sales45@example.com,503.561.4517,4.13
+46,Dynamic Trading,Italy,sales46@example.com,336.876.0706x283,4.25
+47,Dynamic Industries,China,sales47@example.com,+1-418-332-8520,4.56
+48,United Technologies,China,sales48@example.com,711-230-9587x6931,3.62
+49,Global Industries,France,sales49@example.com,6745993054,4.07
+50,United Trading,India,sales50@example.com,+1-501-991-7326,3.79
+51,United Manufacturing,Germany,sales51@example.com,001-453-770-5738x095,4.43
+52,Prime Supply,South Korea,sales52@example.com,+1-431-675-5122x7349,3.51
+53,Elite Technologies,USA,sales53@example.com,001-973-331-1810x0282,4.87
+54,Advanced Logistics,India,sales54@example.com,001-920-990-7089x922,5.0
+55,Advanced Manufacturing,France,sales55@example.com,+1-696-283-9275x7782,4.0
+56,Prime Manufacturing,Italy,sales56@example.com,(699)946-3728,4.26
+57,NextGen Distribution,Italy,sales57@example.com,307.446.8313,4.85
+58,Dynamic Distribution,USA,sales58@example.com,704-425-9243,4.58
+59,Advanced Trading,UK,sales59@example.com,742.539.8407,4.17
+60,Vertex Solutions,China,sales60@example.com,+1-632-730-9292x41078,4.3
+61,Prime Trading,Germany,sales61@example.com,(492)813-1000,4.52
+62,Vertex Industries,USA,sales62@example.com,+1-369-515-3199,3.59
+63,Future Technologies,Canada,sales63@example.com,906-342-9944x2794,3.9
+64,Global Logistics,China,sales64@example.com,885-552-1847x7831,3.77
+65,Global Electronics,India,sales65@example.com,(502)961-2637x3533,4.4
+66,Vertex Manufacturing,India,sales66@example.com,792.774.4491x087,3.82
+67,Elite Solutions,USA,sales67@example.com,783-312-3627,4.55
+68,National Solutions,UK,sales68@example.com,918.734.2429,3.62
+69,United Logistics,India,sales69@example.com,237.390.9440x1372,3.65
+70,Prime Manufacturing,Canada,sales70@example.com,880.566.0672x2157,3.72
+71,Prime Trading,South Korea,sales71@example.com,(578)633-8383x52111,4.01
+72,Prime Solutions,South Korea,sales72@example.com,689-710-3031,3.53
+73,National Supply,China,sales73@example.com,(721)754-7682,3.58
+74,Global Manufacturing,Germany,sales74@example.com,+1-645-666-9975x4177,4.12
+75,Elite Solutions,UK,sales75@example.com,862-301-7427x40488,4.1
+76,Prime Manufacturing,Italy,sales76@example.com,6693955557,3.86
+77,Future Manufacturing,Germany,sales77@example.com,939-232-5928x0029,4.04
+78,Vertex Trading,Germany,sales78@example.com,(311)338-2268x98464,4.21
+79,National Industries,Canada,sales79@example.com,677-354-7627,4.91
+80,Vertex Trading,UK,sales80@example.com,9405958319,4.42
+81,Future Logistics,Germany,sales81@example.com,541-889-3437,4.98
+82,NextGen Solutions,India,sales82@example.com,(396)929-3803x082,4.27
+83,Future Trading,Japan,sales83@example.com,+1-495-572-0149x41046,4.31
+84,Global Solutions,Canada,sales84@example.com,269-571-1457x912,3.66
+85,Elite Manufacturing,Japan,sales85@example.com,+1-929-779-7735x076,3.84
+86,Elite Supply,India,sales86@example.com,(482)586-9151,4.72
+87,Advanced Distribution,Japan,sales87@example.com,819-371-5169,4.48
+88,Vertex Electronics,Canada,sales88@example.com,5229545798,4.01
+89,Vertex Retail,USA,sales89@example.com,(780)624-9105x292,3.91
+90,NextGen Retail,South Korea,sales90@example.com,326.776.9895x3917,4.19
+91,United Distribution,South Korea,sales91@example.com,+1-960-650-1067x00451,4.24
+92,Vertex Solutions,USA,sales92@example.com,+1-215-868-1305,4.45
+93,Global Supply,Canada,sales93@example.com,(389)479-9094x377,4.52
+94,Vertex Supply,UK,sales94@example.com,001-588-257-8987x38202,4.06
+95,Advanced Distribution,France,sales95@example.com,822-561-3913x33309,4.94
+96,Vertex Retail,Canada,sales96@example.com,+1-976-745-1527x071,4.98
+97,United Logistics,Japan,sales97@example.com,203.927.0494,3.73
+98,Dynamic Technologies,Italy,sales98@example.com,(656)932-3744x3720,4.79
+99,Advanced Retail,UK,sales99@example.com,746.325.3223,4.97
+100,United Technologies,South Korea,sales100@example.com,490-228-0743,3.65
+101,Advanced Retail,Canada,sales101@example.com,001-376-360-4318x571,4.26
+102,United Distribution,China,sales102@example.com,2306536298,4.82
+103,Advanced Solutions,France,sales103@example.com,+1-792-776-4672,4.24
+104,Vertex Supply,Italy,sales104@example.com,(582)450-8493x3778,4.02
+105,Prime Industries,USA,sales105@example.com,(647)736-4317,4.38
+106,Advanced Logistics,France,sales106@example.com,+1-728-633-3844,4.82
+107,Prime Trading,India,sales107@example.com,9157927522,4.29
+108,National Retail,USA,sales108@example.com,(807)535-7545x469,3.76
+109,National Retail,Canada,sales109@example.com,001-536-809-3084x8951,3.95
+110,United Trading,France,sales110@example.com,631.853.0031x2505,3.58
+111,Elite Technologies,China,sales111@example.com,(350)795-9722x637,4.13
+112,NextGen Electronics,South Korea,sales112@example.com,001-528-664-1808,4.02
+113,Global Solutions,China,sales113@example.com,720-455-7108x7670,4.52
+114,Prime Logistics,USA,sales114@example.com,(467)459-5428x77497,4.05
+115,National Retail,India,sales115@example.com,879-527-4175,4.26
+116,Future Supply,France,sales116@example.com,614.513.9187,4.73
+117,Vertex Electronics,USA,sales117@example.com,001-482-931-6273x35821,3.95
+118,Advanced Technologies,UK,sales118@example.com,001-421-833-6637x26527,4.47
+119,Elite Electronics,Japan,sales119@example.com,+1-587-537-8389x295,4.89
+120,Dynamic Trading,France,sales120@example.com,332-244-0025x9072,4.44
+121,Prime Trading,Japan,sales121@example.com,421.352.6432x4568,4.01
+122,NextGen Solutions,South Korea,sales122@example.com,001-239-243-0256x06834,4.32
+123,National Solutions,Canada,sales123@example.com,(497)994-2681x26919,3.77
+124,National Industries,India,sales124@example.com,952.656.2692,4.64
+125,National Technologies,France,sales125@example.com,593-349-5083,4.3
+126,NextGen Logistics,France,sales126@example.com,(245)391-5732,4.81
+127,NextGen Supply,Italy,sales127@example.com,780-996-8981x702,3.84
+128,United Technologies,USA,sales128@example.com,3743868452,3.98
+129,Vertex Distribution,India,sales129@example.com,2888438665,4.43
+130,NextGen Retail,China,sales130@example.com,541.839.8032,3.75
+131,Global Retail,UK,sales131@example.com,557-513-8794,4.58
+132,Global Solutions,France,sales132@example.com,782.970.8099x46965,4.82
+133,Advanced Electronics,France,sales133@example.com,317.237.9551x7317,3.98
+134,Dynamic Industries,India,sales134@example.com,883-370-7534,4.55
+135,United Electronics,USA,sales135@example.com,(525)845-9471x21880,4.12
+136,Dynamic Manufacturing,India,sales136@example.com,338.851.9172x942,4.5
+137,National Manufacturing,Japan,sales137@example.com,585-799-7484,4.38
+138,NextGen Technologies,South Korea,sales138@example.com,(877)398-7371x1058,3.57
+139,Global Technologies,South Korea,sales139@example.com,5285783331,4.71
+140,Elite Distribution,USA,sales140@example.com,001-487-410-5739x14719,4.18
+141,United Trading,Italy,sales141@example.com,001-568-729-7748x43960,3.59
+142,Dynamic Trading,Japan,sales142@example.com,908.963.2041x396,3.8
+143,Future Distribution,India,sales143@example.com,(904)246-3853,4.45
+144,Prime Distribution,South Korea,sales144@example.com,+1-281-238-4239,3.78
+145,Advanced Logistics,Canada,sales145@example.com,(556)366-7883x159,4.73
+146,Elite Trading,India,sales146@example.com,366.988.3287,4.87
+147,Dynamic Supply,South Korea,sales147@example.com,(469)741-3561,3.51
+148,Advanced Solutions,China,sales148@example.com,(920)677-5741x29902,4.52
+149,United Retail,USA,sales149@example.com,526-530-7119x6824,4.95
+150,Vertex Logistics,Italy,sales150@example.com,5994478788,3.56
+151,Prime Logistics,South Korea,sales151@example.com,+1-927-480-4892x96307,4.19
+152,NextGen Trading,South Korea,sales152@example.com,2296698211,4.4
+153,United Supply,Italy,sales153@example.com,537.317.0739x1966,4.16
+154,Prime Manufacturing,Japan,sales154@example.com,+1-403-904-9458,4.19
+155,Advanced Electronics,UK,sales155@example.com,(479)311-2001x045,4.47
+156,Future Logistics,Germany,sales156@example.com,(290)656-4908,4.01
+157,Prime Distribution,China,sales157@example.com,(800)768-9470,3.76
+158,United Logistics,France,sales158@example.com,(957)476-6541,3.8
+159,United Electronics,India,sales159@example.com,842.863.6090x860,4.52
+160,United Industries,South Korea,sales160@example.com,+1-649-216-6204,4.07
+161,United Trading,South Korea,sales161@example.com,+1-823-202-5881x855,4.31
+162,Global Trading,France,sales162@example.com,828.723.7367,4.9
+163,Elite Logistics,Japan,sales163@example.com,+1-583-873-6516x335,4.98
+164,National Technologies,Canada,sales164@example.com,+1-833-247-5408x8754,3.73
+165,United Industries,India,sales165@example.com,(276)808-0289x67169,4.05
+166,Future Solutions,Germany,sales166@example.com,3769137723,4.21
+167,Future Logistics,Japan,sales167@example.com,626.929.7504,4.93
+168,National Technologies,USA,sales168@example.com,7903322763,3.59
+169,Vertex Supply,India,sales169@example.com,(413)662-0184x14401,3.94
+170,NextGen Industries,Italy,sales170@example.com,001-263-975-0183x168,4.32
+171,Elite Electronics,UK,sales171@example.com,850.582.7041,4.54
+172,Dynamic Solutions,Canada,sales172@example.com,(309)662-4790x99875,4.67
+173,NextGen Manufacturing,Italy,sales173@example.com,520.291.0213,4.7
+174,Prime Supply,France,sales174@example.com,803.710.5052,3.93
+175,Elite Technologies,France,sales175@example.com,436.771.3527,4.94
+176,Vertex Manufacturing,Germany,sales176@example.com,(638)522-9734x7217,4.42
+177,Vertex Trading,UK,sales177@example.com,001-888-635-2249x51796,3.51
+178,Vertex Technologies,India,sales178@example.com,(296)619-7134,4.19
+179,Vertex Retail,China,sales179@example.com,+1-760-800-7977x064,4.65
+180,Future Technologies,UK,sales180@example.com,200.386.8696,4.98
+181,Vertex Retail,Germany,sales181@example.com,219.414.0649x138,4.3
+182,Global Solutions,Canada,sales182@example.com,001-880-429-5947x4940,4.21
+183,Advanced Electronics,USA,sales183@example.com,507-827-5683x97146,4.79
+184,Prime Manufacturing,UK,sales184@example.com,784.362.5508x4220,3.88
+185,Future Logistics,UK,sales185@example.com,5196964980,3.55
+186,National Manufacturing,Japan,sales186@example.com,(886)971-3871,4.72
+187,Global Manufacturing,Japan,sales187@example.com,333-824-2091x547,4.86
+188,Future Retail,Germany,sales188@example.com,998.810.9885x61454,4.86
+189,National Industries,China,sales189@example.com,798.345.4517x952,3.85
+190,Advanced Solutions,Italy,sales190@example.com,350.540.8278x03041,4.45
+191,Prime Manufacturing,USA,sales191@example.com,(728)562-9243,4.87
+192,United Retail,France,sales192@example.com,858-839-8528x07288,3.5
+193,United Supply,South Korea,sales193@example.com,(788)863-7527x184,4.39
+194,Future Distribution,Germany,sales194@example.com,(518)676-1425,4.63
+195,National Industries,Japan,sales195@example.com,644.205.7412,4.27
+196,National Supply,Germany,sales196@example.com,232-586-0582,4.34
+197,Vertex Solutions,India,sales197@example.com,(909)771-3031x342,3.89
+198,Vertex Industries,France,sales198@example.com,451.660.7956x13969,4.09
+199,Elite Manufacturing,France,sales199@example.com,672.361.7145,4.77
+200,NextGen Electronics,USA,sales200@example.com,(743)360-8730x02005,4.28
+201,Dynamic Retail,Italy,sales201@example.com,(586)430-1049x3218,4.07
+202,NextGen Industries,Italy,sales202@example.com,(442)212-5663,4.38
+203,Dynamic Manufacturing,Japan,sales203@example.com,(585)928-6908x4427,3.55
+204,Future Solutions,USA,sales204@example.com,966.972.1124x8443,4.23
+205,Elite Industries,India,sales205@example.com,668-437-4951x31748,4.91
+206,Future Solutions,China,sales206@example.com,267-760-2009x53688,4.02
+207,Advanced Solutions,France,sales207@example.com,(970)366-1616x934,4.05
+208,NextGen Industries,Canada,sales208@example.com,9643419424,3.82
+209,Global Electronics,China,sales209@example.com,(479)607-4511,4.87
+210,Dynamic Industries,France,sales210@example.com,289-403-5383,4.83
+211,Vertex Distribution,Germany,sales211@example.com,585-595-5867,4.89
+212,Prime Logistics,South Korea,sales212@example.com,8265907063,4.42
+213,Advanced Supply,South Korea,sales213@example.com,+1-347-352-8742,3.9
+214,United Distribution,Canada,sales214@example.com,704.320.9698,4.66
+215,Future Electronics,India,sales215@example.com,522-775-2884,4.37
+216,Future Retail,Italy,sales216@example.com,+1-595-249-2084x961,4.96
+217,National Electronics,Canada,sales217@example.com,605-608-6092,4.7
+218,Global Solutions,Japan,sales218@example.com,893.836.0532x3125,4.59
+219,Dynamic Electronics,Germany,sales219@example.com,(703)727-4712,4.73
+220,Future Industries,China,sales220@example.com,516-647-4828x1471,4.85
+221,Advanced Trading,USA,sales221@example.com,204-346-2442x246,3.75
+222,Dynamic Trading,India,sales222@example.com,+1-350-562-1237x59873,4.55
+223,Future Industries,France,sales223@example.com,+1-201-342-3800,4.02
+224,Future Solutions,Japan,sales224@example.com,414.645.9523x46816,4.19
+225,National Electronics,France,sales225@example.com,+1-636-260-4093x02193,3.85
+226,Prime Trading,Italy,sales226@example.com,(302)910-4595x43941,4.6
+227,Elite Supply,China,sales227@example.com,(379)937-6044x590,4.3
+228,Future Industries,China,sales228@example.com,227.982.9849x4759,3.88
+229,Prime Solutions,Germany,sales229@example.com,(366)406-6672x812,4.27
+230,Future Solutions,Canada,sales230@example.com,480.428.3428,3.96
+231,Advanced Industries,Japan,sales231@example.com,+1-783-853-9264,4.42
+232,National Industries,India,sales232@example.com,483.560.3592x610,4.07
+233,Elite Electronics,UK,sales233@example.com,001-826-712-7201x260,3.96
+234,Future Technologies,Canada,sales234@example.com,(576)354-1791x1286,4.9
+235,National Technologies,South Korea,sales235@example.com,001-694-431-7908x4597,3.86
+236,Advanced Electronics,Italy,sales236@example.com,398.930.4051x7898,4.78
+237,Global Distribution,India,sales237@example.com,817.809.0369x0305,4.07
+238,NextGen Electronics,Canada,sales238@example.com,374-371-4406,4.52
+239,Future Distribution,UK,sales239@example.com,(713)946-8086x9446,4.35
+240,United Supply,USA,sales240@example.com,+1-208-690-8890x47054,4.74
+241,Vertex Logistics,Canada,sales241@example.com,001-611-983-9907x77455,3.61
+242,Dynamic Manufacturing,Germany,sales242@example.com,(855)433-1315,4.66
+243,Dynamic Trading,France,sales243@example.com,(264)951-3254x9345,4.87
+244,Advanced Electronics,China,sales244@example.com,388.312.1847x462,3.83
+245,Future Retail,South Korea,sales245@example.com,001-525-435-4534x58710,4.15
+246,NextGen Supply,China,sales246@example.com,001-507-358-1987x70737,4.84
+247,United Electronics,South Korea,sales247@example.com,968-213-1048x15690,4.74
+248,National Solutions,India,sales248@example.com,(694)457-4770x99184,3.74
+249,Vertex Retail,UK,sales249@example.com,(568)696-5575,4.3
+250,Dynamic Solutions,South Korea,sales250@example.com,513-604-3592x052,3.54
+251,Advanced Solutions,Canada,sales251@example.com,668.830.3757,5.0
+252,NextGen Electronics,USA,sales252@example.com,(539)699-0118x5180,3.69
+253,Advanced Distribution,Japan,sales253@example.com,717.775.9743x530,4.29
+254,NextGen Retail,USA,sales254@example.com,+1-707-531-2627x922,4.03
+255,Elite Solutions,China,sales255@example.com,001-704-357-4420x157,4.49
+256,Dynamic Trading,South Korea,sales256@example.com,(619)801-2396x323,3.87
+257,Dynamic Trading,Japan,sales257@example.com,001-208-450-9814x7779,4.12
+258,United Industries,Germany,sales258@example.com,714.878.9047,4.19
+259,Advanced Distribution,India,sales259@example.com,973.701.6198,3.93
+260,Advanced Solutions,UK,sales260@example.com,873.779.2177x123,4.78
+261,National Trading,Japan,sales261@example.com,001-752-863-0937x809,4.46
+262,Future Technologies,India,sales262@example.com,+1-817-779-7388x2340,4.02
+263,National Technologies,USA,sales263@example.com,687.958.0359x675,3.7
+264,Advanced Electronics,South Korea,sales264@example.com,468-729-7552x1370,4.64
+265,Global Trading,France,sales265@example.com,(697)915-2061,3.97
+266,Global Technologies,France,sales266@example.com,001-454-850-6685x42742,4.16
+267,National Logistics,France,sales267@example.com,(830)282-0770,4.32
+268,Advanced Logistics,Canada,sales268@example.com,001-592-578-9901x7417,3.94
+269,Prime Manufacturing,USA,sales269@example.com,812.979.5198x1868,4.49
+270,Prime Distribution,USA,sales270@example.com,(821)865-7603x509,4.68
+271,Dynamic Technologies,South Korea,sales271@example.com,686-620-7834,4.18
+272,NextGen Industries,USA,sales272@example.com,+1-572-894-8947x44914,4.96
+273,National Supply,China,sales273@example.com,698-714-6024x66000,3.74
+274,United Electronics,Japan,sales274@example.com,+1-682-683-0905x5508,3.87
+275,Elite Technologies,UK,sales275@example.com,(388)981-2887,4.95
+276,Advanced Technologies,South Korea,sales276@example.com,981-763-2277x117,4.8
+277,NextGen Logistics,Germany,sales277@example.com,862-322-3059x228,4.44
+278,Vertex Logistics,China,sales278@example.com,7388295892,4.41
+279,NextGen Distribution,USA,sales279@example.com,001-691-694-2698x1008,3.78
+280,NextGen Electronics,China,sales280@example.com,001-414-541-6489x0505,4.05
+281,Future Electronics,China,sales281@example.com,437.704.8725,4.19
+282,Elite Technologies,UK,sales282@example.com,3934181910,3.86
+283,National Industries,India,sales283@example.com,384.241.8556x9777,4.32
+284,National Solutions,China,sales284@example.com,001-570-770-1719x892,4.93
+285,Global Logistics,Italy,sales285@example.com,(829)945-1587,4.47
+286,Prime Manufacturing,Germany,sales286@example.com,2355600055,4.96
+287,Global Trading,China,sales287@example.com,+1-448-779-8537,4.71
+288,Dynamic Solutions,India,sales288@example.com,(490)675-6839,3.56
+289,Dynamic Trading,USA,sales289@example.com,+1-353-370-1105x19104,4.75
+290,Advanced Manufacturing,France,sales290@example.com,(689)981-6746x101,3.51
+291,United Industries,China,sales291@example.com,8557650905,4.03
+292,Advanced Logistics,China,sales292@example.com,(334)976-8947,4.81
+293,Advanced Manufacturing,Italy,sales293@example.com,795.927.0991,4.69
+294,Advanced Solutions,France,sales294@example.com,(484)938-3255x39587,3.95
+295,Vertex Manufacturing,France,sales295@example.com,535-497-0960x87169,4.7
+296,Vertex Technologies,France,sales296@example.com,321-909-2381x338,3.97
+297,Elite Technologies,Canada,sales297@example.com,(618)418-5161x975,4.58
+298,Future Logistics,UK,sales298@example.com,001-487-816-5427x7076,4.79
+299,Global Industries,India,sales299@example.com,596.710.6780x751,4.08
+300,Global Logistics,Italy,sales300@example.com,855-572-9667x42219,3.69
+301,Dynamic Industries,India,sales301@example.com,2025167851,4.94
+302,Vertex Manufacturing,Germany,sales302@example.com,980.749.8991x21432,4.32
+303,Elite Industries,India,sales303@example.com,363.799.1325x88701,4.45
+304,Elite Solutions,India,sales304@example.com,218-803-6190x497,3.63
+305,NextGen Industries,UK,sales305@example.com,908.763.0027,3.91
+306,Global Industries,UK,sales306@example.com,498-287-6508x8988,4.36
+307,National Solutions,UK,sales307@example.com,5615286349,3.53
+308,Prime Retail,South Korea,sales308@example.com,+1-825-453-1857,4.23
+309,United Trading,USA,sales309@example.com,(488)967-9515,3.9
+310,Vertex Supply,France,sales310@example.com,454.872.6803x940,4.05
+311,Vertex Manufacturing,USA,sales311@example.com,5253939793,4.58
+312,NextGen Distribution,Japan,sales312@example.com,528.286.8551x537,4.28
+313,NextGen Distribution,South Korea,sales313@example.com,226.569.1343x90697,4.49
+314,Vertex Electronics,India,sales314@example.com,+1-623-227-2771,4.8
+315,National Trading,Canada,sales315@example.com,206.304.5559x4859,3.56
+316,Global Retail,Germany,sales316@example.com,9579021312,4.48
+317,Elite Technologies,Japan,sales317@example.com,883-731-2684,4.05
+318,Future Retail,South Korea,sales318@example.com,367-206-7366x84361,4.34
+319,Elite Supply,South Korea,sales319@example.com,+1-462-382-6173,4.44
+320,Future Solutions,Japan,sales320@example.com,(656)249-5844x438,4.53
+321,Advanced Trading,USA,sales321@example.com,+1-887-280-2400,4.15
+322,Global Supply,France,sales322@example.com,001-477-759-1608x497,4.84
+323,Elite Supply,UK,sales323@example.com,669.401.7329x8798,4.33
+324,NextGen Distribution,South Korea,sales324@example.com,483.311.3400,4.01
+325,Elite Manufacturing,UK,sales325@example.com,389.606.2977x270,4.64
+326,Future Supply,Canada,sales326@example.com,+1-673-274-8360,3.69
+327,NextGen Solutions,India,sales327@example.com,412.827.1997,4.94
+328,Future Manufacturing,India,sales328@example.com,(984)726-2959x390,3.98
+329,National Technologies,China,sales329@example.com,3407643323,4.31
+330,Future Supply,France,sales330@example.com,964-388-6085x3650,4.58
+331,Elite Manufacturing,Canada,sales331@example.com,001-267-223-9381x7865,3.73
+332,Advanced Logistics,China,sales332@example.com,001-468-470-1494x33162,3.66
+333,United Supply,South Korea,sales333@example.com,2593220894,4.93
+334,Global Retail,Japan,sales334@example.com,947.735.6264,4.87
+335,NextGen Logistics,USA,sales335@example.com,818-788-9284,3.58
+336,Advanced Manufacturing,UK,sales336@example.com,+1-525-558-7026x004,4.01
+337,Elite Trading,India,sales337@example.com,001-972-207-2810x52267,4.08
+338,Global Solutions,Italy,sales338@example.com,+1-762-703-0810,4.46
+339,Future Electronics,China,sales339@example.com,601.706.2980x95392,4.23
+340,Dynamic Retail,Japan,sales340@example.com,+1-437-537-3323x742,3.97
+341,United Industries,Japan,sales341@example.com,307.577.2563x668,3.55
+342,Elite Industries,Japan,sales342@example.com,695-721-4013x834,4.14
+343,Dynamic Logistics,South Korea,sales343@example.com,(361)414-9504,3.66
+344,Global Supply,South Korea,sales344@example.com,242.852.0833x2411,3.63
+345,Global Manufacturing,Italy,sales345@example.com,(848)208-7671x7203,3.61
+346,National Electronics,Italy,sales346@example.com,308.861.5864x1352,4.73
+347,Elite Retail,India,sales347@example.com,001-301-387-0559,4.19
+348,NextGen Trading,Germany,sales348@example.com,(244)759-9144x257,4.1
+349,Elite Trading,China,sales349@example.com,+1-280-676-3768,4.49
+350,NextGen Retail,South Korea,sales350@example.com,(213)841-8353,4.67
+351,Vertex Industries,China,sales351@example.com,316.705.6307x3496,3.88
+352,NextGen Distribution,USA,sales352@example.com,754-937-7052,4.35
+353,Vertex Supply,China,sales353@example.com,420.924.6820x4807,3.73
+354,United Retail,Italy,sales354@example.com,+1-916-566-7548x23485,4.97
+355,Future Industries,Japan,sales355@example.com,296.573.7259x9594,4.16
+356,NextGen Logistics,India,sales356@example.com,419.959.5194x6765,4.39
+357,United Logistics,UK,sales357@example.com,797.437.4590x41392,4.23
+358,National Retail,France,sales358@example.com,311.650.5304x3522,3.93
+359,Vertex Trading,USA,sales359@example.com,458-799-2064,4.2
+360,Vertex Industries,India,sales360@example.com,260-775-6767,3.63
+361,Elite Solutions,South Korea,sales361@example.com,546.230.0949,3.92
+362,NextGen Trading,China,sales362@example.com,270-287-0002,4.47
+363,Vertex Retail,Italy,sales363@example.com,(622)326-6129,4.06
+364,NextGen Industries,Canada,sales364@example.com,806.365.4731x19200,4.25
+365,Dynamic Logistics,Italy,sales365@example.com,719-751-4313,3.82
+366,Future Supply,China,sales366@example.com,310-537-4120x660,3.81
+367,Future Solutions,Germany,sales367@example.com,616-630-1955,4.18
+368,Vertex Manufacturing,South Korea,sales368@example.com,+1-999-795-0045x693,3.61
+369,Prime Logistics,France,sales369@example.com,227.851.6039x7469,4.14
+370,United Retail,UK,sales370@example.com,209.695.3707x60662,4.13
+371,National Electronics,India,sales371@example.com,556.966.1431,3.99
+372,Dynamic Manufacturing,Japan,sales372@example.com,459-541-7429x7971,4.36
+373,NextGen Distribution,France,sales373@example.com,+1-352-670-9990,4.28
+374,National Technologies,Italy,sales374@example.com,267.878.3515x1478,4.37
+375,Prime Electronics,Germany,sales375@example.com,299.797.6445x296,4.71
+376,National Manufacturing,UK,sales376@example.com,844.277.8746,3.59
+377,Global Industries,France,sales377@example.com,(622)264-3373x232,3.51
+378,United Solutions,Italy,sales378@example.com,671-861-7162x822,4.73
+379,NextGen Technologies,France,sales379@example.com,850.299.7262x461,3.73
+380,Dynamic Trading,Italy,sales380@example.com,2492433859,4.31
+381,Advanced Technologies,UK,sales381@example.com,001-942-948-5233,4.56
+382,Prime Retail,South Korea,sales382@example.com,960-509-3132x62635,3.95
+383,National Solutions,India,sales383@example.com,001-544-751-1886x12872,4.8
+384,Prime Logistics,Germany,sales384@example.com,+1-253-790-5109x24726,3.68
+385,National Trading,Germany,sales385@example.com,352-364-1084x1379,4.37
+386,NextGen Manufacturing,China,sales386@example.com,+1-245-798-9560x01717,3.51
+387,National Industries,UK,sales387@example.com,(479)937-9473x0900,4.55
+388,Prime Retail,UK,sales388@example.com,+1-641-615-9277x975,4.16
+389,National Retail,UK,sales389@example.com,001-997-481-5694x3821,3.96
+390,Global Logistics,UK,sales390@example.com,911-836-7054x2876,3.83
+391,Dynamic Logistics,Canada,sales391@example.com,255-476-2043,4.59
+392,United Manufacturing,South Korea,sales392@example.com,+1-755-415-2971x8389,3.69
+393,United Logistics,China,sales393@example.com,9149734938,4.04
+394,Prime Retail,Germany,sales394@example.com,001-579-428-3731x349,4.1
+395,Elite Trading,France,sales395@example.com,681-350-7292x9579,3.56
+396,National Technologies,France,sales396@example.com,754.432.3434x8731,3.63
+397,Prime Manufacturing,China,sales397@example.com,460.579.3368x57619,4.06
+398,NextGen Electronics,Japan,sales398@example.com,626.923.2691,3.78
+399,Global Industries,India,sales399@example.com,(660)553-6594x73362,4.45
+400,Future Retail,South Korea,sales400@example.com,001-630-362-7674x819,4.3
+401,Elite Distribution,UK,sales401@example.com,846-922-8878x3578,3.98
+402,United Supply,Canada,sales402@example.com,6192441729,4.66
+403,National Industries,Canada,sales403@example.com,+1-836-370-5218x37841,4.07
+404,Elite Electronics,UK,sales404@example.com,995.256.4168x5779,4.96
+405,United Industries,France,sales405@example.com,4162249418,3.74
+406,Elite Solutions,Italy,sales406@example.com,+1-723-707-1024,3.59
+407,United Retail,Japan,sales407@example.com,352-593-1346x39131,4.02
+408,National Supply,China,sales408@example.com,001-762-957-2663,3.94
+409,Global Trading,USA,sales409@example.com,(647)744-2981x67793,3.93
+410,Dynamic Electronics,South Korea,sales410@example.com,001-936-327-9441x871,3.97
+411,Future Distribution,France,sales411@example.com,+1-984-664-3629x0854,4.68
+412,Dynamic Retail,Canada,sales412@example.com,(674)261-0732,4.66
+413,NextGen Logistics,South Korea,sales413@example.com,818.617.7682,4.42
+414,Future Technologies,Canada,sales414@example.com,523.412.9685x1203,4.18
+415,Dynamic Solutions,Canada,sales415@example.com,001-368-906-2533x97530,3.63
+416,Dynamic Electronics,UK,sales416@example.com,(774)344-0794,4.17
+417,Future Solutions,Germany,sales417@example.com,(602)792-0204x59523,3.84
+418,Future Electronics,USA,sales418@example.com,(843)961-8091x28681,4.77
+419,Elite Distribution,India,sales419@example.com,001-706-884-9399x88063,4.96
+420,Vertex Retail,South Korea,sales420@example.com,(460)383-6592x5607,4.6
+421,Elite Distribution,South Korea,sales421@example.com,8089049792,4.24
+422,Advanced Trading,Japan,sales422@example.com,792.583.8518,3.54
+423,Dynamic Supply,Italy,sales423@example.com,3926910146,3.84
+424,Advanced Distribution,South Korea,sales424@example.com,+1-385-601-2621x82451,3.98
+425,National Retail,Japan,sales425@example.com,289.943.8317x0433,3.57
+426,United Supply,China,sales426@example.com,545-813-6193,4.33
+427,Global Manufacturing,France,sales427@example.com,+1-648-859-5785x38634,4.66
+428,Dynamic Electronics,China,sales428@example.com,+1-952-360-3651x3522,3.51
+429,Vertex Solutions,Germany,sales429@example.com,940.411.1758x2403,4.17
+430,NextGen Electronics,France,sales430@example.com,544.557.7734x8842,4.54
+431,Dynamic Distribution,UK,sales431@example.com,+1-682-812-0384x69514,4.51
+432,Future Manufacturing,Italy,sales432@example.com,(224)565-6555,4.82
+433,Global Supply,Japan,sales433@example.com,382.730.3769,4.75
+434,Dynamic Logistics,Japan,sales434@example.com,(921)930-8283,3.76
+435,Elite Supply,UK,sales435@example.com,628-451-5712x7105,3.93
+436,NextGen Manufacturing,South Korea,sales436@example.com,(741)551-7660,3.64
+437,Dynamic Industries,India,sales437@example.com,263-854-8710x81067,3.8
+438,Advanced Distribution,Italy,sales438@example.com,788.985.3515,4.43
+439,United Distribution,Italy,sales439@example.com,(910)453-5777x3466,4.13
+440,United Electronics,UK,sales440@example.com,(519)643-4147x667,3.97
+441,National Retail,India,sales441@example.com,001-643-759-4469,4.79
+442,National Solutions,Japan,sales442@example.com,8896445665,4.38
+443,Vertex Trading,Germany,sales443@example.com,839.721.2569,3.82
+444,Dynamic Manufacturing,Japan,sales444@example.com,001-629-624-5381x205,4.4
+445,NextGen Solutions,USA,sales445@example.com,+1-563-701-4915x2096,3.72
+446,Future Retail,Germany,sales446@example.com,330.879.5683,3.72
+447,Prime Retail,UK,sales447@example.com,882-483-3562,4.65
+448,Dynamic Trading,China,sales448@example.com,982-417-2863x54615,3.98
+449,Elite Supply,India,sales449@example.com,(860)999-6212,3.94
+450,Advanced Distribution,France,sales450@example.com,504-479-0183x60476,3.76
+451,Dynamic Manufacturing,USA,sales451@example.com,(858)299-0921,4.23
+452,Advanced Distribution,Japan,sales452@example.com,733-954-9735,4.42
+453,National Industries,South Korea,sales453@example.com,+1-777-735-3286x929,3.95
+454,Future Industries,China,sales454@example.com,+1-218-949-4020x1472,4.67
+455,United Electronics,France,sales455@example.com,001-240-991-8907,4.15
+456,NextGen Solutions,Canada,sales456@example.com,(902)562-1023x29366,4.2
+457,NextGen Supply,Canada,sales457@example.com,5172068326,4.07
+458,Dynamic Distribution,China,sales458@example.com,+1-378-427-5322x925,4.68
+459,United Logistics,Italy,sales459@example.com,001-380-571-3616x447,3.78
+460,Advanced Technologies,Canada,sales460@example.com,6306028327,4.1
+461,Global Manufacturing,France,sales461@example.com,001-375-382-9761x345,4.73
+462,National Industries,India,sales462@example.com,(352)702-0618x4576,3.99
+463,National Trading,Japan,sales463@example.com,8437947499,4.34
+464,Elite Industries,Italy,sales464@example.com,(661)804-9379,4.41
+465,Vertex Manufacturing,France,sales465@example.com,726-901-7504x0335,3.85
+466,Prime Technologies,France,sales466@example.com,+1-589-620-0710x34574,4.86
+467,Advanced Solutions,USA,sales467@example.com,888.625.4195x7624,4.68
+468,Advanced Electronics,USA,sales468@example.com,(248)730-0666x44923,3.5
+469,NextGen Trading,India,sales469@example.com,397.754.9642,3.89
+470,National Electronics,India,sales470@example.com,001-230-416-5011,3.78
+471,Advanced Logistics,China,sales471@example.com,+1-674-927-2387x4074,4.69
+472,United Technologies,USA,sales472@example.com,(452)619-7483x977,3.85
+473,Global Retail,Italy,sales473@example.com,(565)898-2757x7750,3.56
+474,Elite Distribution,France,sales474@example.com,(401)573-1487,3.61
+475,Elite Electronics,Italy,sales475@example.com,213.551.2396,5.0
+476,Dynamic Supply,Japan,sales476@example.com,(708)941-6377x29582,4.46
+477,United Manufacturing,Italy,sales477@example.com,(596)644-5407x982,3.97
+478,Prime Technologies,Canada,sales478@example.com,+1-687-924-6412x23973,3.55
+479,Advanced Industries,Germany,sales479@example.com,421-381-1235,4.04
+480,NextGen Solutions,South Korea,sales480@example.com,(716)298-9524x303,4.07
+481,Advanced Retail,Germany,sales481@example.com,4908186378,3.86
+482,National Solutions,Germany,sales482@example.com,+1-286-866-3548,3.84
+483,Dynamic Supply,Italy,sales483@example.com,001-404-760-0437x46987,4.79
+484,Prime Solutions,USA,sales484@example.com,869-595-6739x99472,4.0
+485,Prime Manufacturing,Italy,sales485@example.com,476.386.1077x01615,4.66
+486,Global Retail,Japan,sales486@example.com,001-455-229-5475x008,4.42
+487,Global Solutions,India,sales487@example.com,622-867-4562x56155,4.84
+488,Advanced Distribution,Canada,sales488@example.com,(564)234-7923x2196,4.87
+489,Global Supply,France,sales489@example.com,293.753.4643x373,3.95
+490,Elite Logistics,Germany,sales490@example.com,+1-320-889-9892x656,4.47
+491,National Technologies,USA,sales491@example.com,(581)472-8536x4697,3.63
+492,Global Logistics,France,sales492@example.com,705.286.0538x30007,4.98
+493,Elite Logistics,France,sales493@example.com,+1-260-498-6426,4.84
+494,Future Distribution,Japan,sales494@example.com,001-814-426-8973x622,4.49
+495,Vertex Logistics,South Korea,sales495@example.com,001-991-778-4028x9581,4.69
+496,Dynamic Electronics,South Korea,sales496@example.com,(971)351-4365x3612,4.45
+497,Elite Electronics,India,sales497@example.com,785-921-7007,4.69
+498,Prime Industries,France,sales498@example.com,+1-929-590-6351x9157,4.86
+499,Advanced Trading,USA,sales499@example.com,+1-261-696-3585,3.69
+500,Prime Technologies,South Korea,sales500@example.com,788.406.7225,3.94
+501,National Distribution,France,sales501@example.com,780-704-3023,4.35
+502,Prime Manufacturing,South Korea,sales502@example.com,+1-488-824-5607x8894,4.59
+503,Vertex Trading,South Korea,sales503@example.com,360.641.3893,3.6
+504,Elite Retail,France,sales504@example.com,218-683-1476x1467,4.97
+505,National Logistics,Japan,sales505@example.com,490.245.4356x93405,4.77
+506,Elite Retail,Canada,sales506@example.com,778.235.0373,4.61
+507,Global Supply,Japan,sales507@example.com,(706)525-0662,4.5
+508,Vertex Trading,Germany,sales508@example.com,+1-570-367-9111x453,5.0
+509,NextGen Technologies,Italy,sales509@example.com,+1-759-648-1566x548,3.94
+510,Advanced Technologies,China,sales510@example.com,(637)705-3039x54704,3.57
+511,NextGen Manufacturing,China,sales511@example.com,278-463-8547x838,4.03
+512,Advanced Supply,Germany,sales512@example.com,(839)748-9194x742,3.69
+513,Future Supply,USA,sales513@example.com,(622)716-9057x3832,3.73
+514,Advanced Industries,India,sales514@example.com,(218)317-4126x4271,4.68
+515,Elite Retail,Germany,sales515@example.com,887-485-7437x40932,4.46
+516,Vertex Electronics,USA,sales516@example.com,+1-855-570-9822x74002,3.85
+517,NextGen Manufacturing,Canada,sales517@example.com,607.583.3636x3766,4.24
+518,Vertex Distribution,Japan,sales518@example.com,880.770.5323x152,3.95
+519,National Manufacturing,UK,sales519@example.com,305-312-9347x4890,4.19
+520,NextGen Solutions,Japan,sales520@example.com,(994)727-6799x178,4.55
+521,NextGen Industries,France,sales521@example.com,+1-981-239-8164,4.67
+522,Future Trading,France,sales522@example.com,(665)612-9351,3.51
+523,Vertex Technologies,India,sales523@example.com,556.607.3572x919,4.06
+524,United Manufacturing,France,sales524@example.com,(447)794-7472x896,4.97
+525,Advanced Trading,USA,sales525@example.com,(661)789-3941,3.53
+526,Advanced Electronics,Germany,sales526@example.com,(958)964-7378,4.88
+527,Dynamic Technologies,India,sales527@example.com,(889)642-4304x1383,3.97
+528,NextGen Electronics,Japan,sales528@example.com,2139696740,4.37
+529,Global Retail,Germany,sales529@example.com,(823)361-3068,3.72
+530,Future Retail,USA,sales530@example.com,408.412.6976x671,3.7
+531,Prime Manufacturing,Germany,sales531@example.com,559-374-8575x420,4.26
+532,Dynamic Industries,Germany,sales532@example.com,(450)910-4717,4.24
+533,Global Manufacturing,Germany,sales533@example.com,662-345-3412x080,4.92
+534,NextGen Manufacturing,China,sales534@example.com,970-430-0571x877,4.99
+535,Vertex Industries,UK,sales535@example.com,+1-490-223-2915,4.61
+536,United Retail,China,sales536@example.com,001-480-578-5664x3667,3.92
+537,United Technologies,China,sales537@example.com,894-310-6390x1454,4.39
+538,United Trading,Germany,sales538@example.com,7683358790,3.58
+539,Elite Trading,South Korea,sales539@example.com,(425)386-8385,3.88
+540,Future Manufacturing,Japan,sales540@example.com,(210)429-9674x16670,4.19
+541,Vertex Supply,India,sales541@example.com,+1-312-597-1929x51723,4.38
+542,Future Logistics,USA,sales542@example.com,974.864.4373x3113,4.38
+543,Prime Industries,USA,sales543@example.com,893-446-3957x80197,4.55
+544,Dynamic Supply,France,sales544@example.com,+1-961-332-5051,3.72
+545,Vertex Retail,Germany,sales545@example.com,887-483-3960,4.62
+546,United Manufacturing,India,sales546@example.com,001-595-879-5704x65055,4.44
+547,United Technologies,Italy,sales547@example.com,+1-819-638-1308,4.59
+548,Prime Technologies,Canada,sales548@example.com,+1-218-340-8259,4.11
+549,Dynamic Trading,Germany,sales549@example.com,+1-382-907-2322x01288,4.78
+550,Global Trading,China,sales550@example.com,447-425-3135x6589,4.94
+551,Elite Manufacturing,South Korea,sales551@example.com,001-295-452-8839x00137,3.87
+552,NextGen Electronics,South Korea,sales552@example.com,001-536-661-4349x938,3.58
+553,Advanced Manufacturing,Germany,sales553@example.com,(991)220-8423,3.61
+554,National Retail,France,sales554@example.com,2056433896,4.32
+555,Advanced Logistics,South Korea,sales555@example.com,001-291-918-7426x5759,3.63
+556,Vertex Retail,India,sales556@example.com,671-766-3350,3.78
+557,Advanced Logistics,France,sales557@example.com,271.314.3153,4.17
+558,National Distribution,France,sales558@example.com,(844)502-6198,3.82
+559,Advanced Manufacturing,India,sales559@example.com,(717)953-6263,4.32
+560,Advanced Electronics,Italy,sales560@example.com,273-256-4636,3.51
+561,Prime Electronics,Japan,sales561@example.com,+1-899-812-4668x05400,4.98
+562,United Solutions,Italy,sales562@example.com,713-542-5307x42285,3.61
+563,United Technologies,Germany,sales563@example.com,9633521668,3.98
+564,Advanced Electronics,USA,sales564@example.com,+1-267-708-6417x018,4.19
+565,Prime Distribution,Japan,sales565@example.com,644.657.9920x83776,4.86
+566,Future Retail,India,sales566@example.com,001-215-303-1693,3.75
+567,United Retail,USA,sales567@example.com,692-593-0845,4.1
+568,National Technologies,Italy,sales568@example.com,376.884.2589x28166,4.63
+569,Advanced Technologies,Japan,sales569@example.com,4343206226,4.99
+570,Dynamic Supply,UK,sales570@example.com,826-788-1789x4624,3.99
+571,Elite Technologies,South Korea,sales571@example.com,+1-497-936-0035,4.59
+572,United Manufacturing,China,sales572@example.com,5114699634,4.47
+573,Future Logistics,Germany,sales573@example.com,(520)533-0030x3394,3.62
+574,NextGen Industries,Canada,sales574@example.com,001-597-623-5752x40900,3.53
+575,United Technologies,India,sales575@example.com,001-497-272-3992x686,4.91
+576,National Technologies,India,sales576@example.com,001-903-821-7966,4.58
+577,Future Industries,Japan,sales577@example.com,5425256127,4.14
+578,Advanced Trading,South Korea,sales578@example.com,229-406-1498x223,4.89
+579,Prime Trading,Japan,sales579@example.com,231.974.5546x48333,4.3
+580,NextGen Supply,India,sales580@example.com,324.271.2376,4.2
+581,NextGen Retail,South Korea,sales581@example.com,(673)873-8900x332,3.53
+582,Advanced Supply,France,sales582@example.com,(434)214-8144x464,3.69
+583,Global Trading,South Korea,sales583@example.com,+1-592-579-5247,4.44
+584,NextGen Trading,Canada,sales584@example.com,001-906-903-1965x7658,4.65
+585,Vertex Manufacturing,India,sales585@example.com,686.630.7496,3.87
+586,National Solutions,Japan,sales586@example.com,(291)468-6775x57717,4.1
+587,Prime Trading,UK,sales587@example.com,(450)965-8517x40633,3.94
+588,United Solutions,China,sales588@example.com,905-974-1545,4.4
+589,National Manufacturing,India,sales589@example.com,+1-792-604-9955,3.63
+590,Dynamic Trading,Italy,sales590@example.com,429-834-0515x783,4.11
+591,Future Manufacturing,Japan,sales591@example.com,001-797-439-0244x830,4.11
+592,NextGen Electronics,Japan,sales592@example.com,+1-398-278-4235x77408,4.75
+593,Future Logistics,Canada,sales593@example.com,8405781454,3.87
+594,Future Industries,France,sales594@example.com,683-491-7663x49098,4.35
+595,NextGen Industries,Italy,sales595@example.com,(541)211-0154,3.69
+596,Elite Distribution,Germany,sales596@example.com,001-500-893-6986x5015,4.12
+597,Vertex Retail,Germany,sales597@example.com,5176296445,3.86
+598,Global Solutions,Germany,sales598@example.com,409.932.1851,3.68
+599,Advanced Industries,South Korea,sales599@example.com,+1-387-913-2450x7437,4.07
+600,National Electronics,France,sales600@example.com,+1-499-553-3983x4322,4.95
+601,Elite Logistics,Japan,sales601@example.com,+1-671-565-7817x04844,4.14
+602,Advanced Industries,USA,sales602@example.com,683.646.5211x86536,3.99
+603,Elite Retail,UK,sales603@example.com,+1-728-830-2119x8867,4.65
+604,Dynamic Distribution,Canada,sales604@example.com,+1-309-913-5949x782,4.18
+605,Global Technologies,China,sales605@example.com,(484)337-1730x045,3.9
+606,Prime Manufacturing,China,sales606@example.com,+1-658-912-9748,3.57
+607,United Technologies,Canada,sales607@example.com,001-636-850-5233x36338,3.73
+608,Advanced Solutions,France,sales608@example.com,415-526-4798,4.05
+609,Prime Solutions,China,sales609@example.com,(583)200-5123x65729,4.05
+610,Elite Distribution,India,sales610@example.com,001-923-285-9394,3.76
+611,Future Electronics,UK,sales611@example.com,765-417-5541x8661,4.74
+612,Global Solutions,South Korea,sales612@example.com,801.449.9507x91353,4.52
+613,NextGen Logistics,Germany,sales613@example.com,385-621-6297x5325,4.31
+614,Prime Electronics,India,sales614@example.com,001-395-705-0033,4.28
+615,Future Manufacturing,Germany,sales615@example.com,+1-659-263-0850x07533,3.85
+616,NextGen Electronics,UK,sales616@example.com,001-582-467-8815,3.51
+617,Vertex Trading,France,sales617@example.com,251-659-7518x44917,4.62
+618,Prime Technologies,UK,sales618@example.com,+1-437-325-8342x5730,3.85
+619,Vertex Retail,USA,sales619@example.com,+1-901-595-7636x27306,4.37
+620,NextGen Solutions,Germany,sales620@example.com,964.423.7037x11274,4.55
+621,Elite Supply,Italy,sales621@example.com,529-623-2184,4.12
+622,Global Industries,Germany,sales622@example.com,001-614-824-5034x5831,4.34
+623,Elite Manufacturing,France,sales623@example.com,243-869-3606x973,3.97
+624,Dynamic Technologies,France,sales624@example.com,568-979-0435x52394,4.81
+625,Future Electronics,Japan,sales625@example.com,615-850-7245x4752,4.12
+626,United Manufacturing,Germany,sales626@example.com,+1-710-966-8238,3.81
+627,Elite Retail,UK,sales627@example.com,(558)966-4962x89940,4.44
+628,Dynamic Manufacturing,Canada,sales628@example.com,489.496.6599,3.82
+629,Advanced Trading,Germany,sales629@example.com,831-228-5871x4197,4.52
+630,Vertex Electronics,Japan,sales630@example.com,696-772-9413,4.74
+631,Prime Supply,UK,sales631@example.com,(729)212-7798,3.93
+632,Dynamic Electronics,Canada,sales632@example.com,+1-768-231-7704x9501,4.94
+633,NextGen Retail,Germany,sales633@example.com,+1-986-960-3541x7140,4.84
+634,Vertex Electronics,Germany,sales634@example.com,771-841-9769,4.35
+635,Prime Solutions,India,sales635@example.com,(953)239-7540x467,4.7
+636,United Distribution,UK,sales636@example.com,+1-700-452-0227,4.19
+637,Dynamic Supply,India,sales637@example.com,391.662.5592,4.84
+638,Global Logistics,Germany,sales638@example.com,+1-999-814-2642x759,3.52
+639,United Solutions,Japan,sales639@example.com,452.671.7353x58342,4.79
+640,NextGen Technologies,Germany,sales640@example.com,001-817-931-6359x02366,3.78
+641,National Supply,Canada,sales641@example.com,(226)882-3563,4.13
+642,Prime Manufacturing,Canada,sales642@example.com,(226)580-0829x621,3.79
+643,Vertex Solutions,Canada,sales643@example.com,817-482-1484x058,4.06
+644,Future Technologies,Canada,sales644@example.com,(520)886-5908,4.76
+645,Dynamic Logistics,Germany,sales645@example.com,858-779-3225,4.82
+646,United Supply,Canada,sales646@example.com,750-544-5141x8208,4.65
+647,National Manufacturing,Japan,sales647@example.com,+1-231-324-6517x038,4.64
+648,Advanced Retail,South Korea,sales648@example.com,916-461-0185,4.69
+649,Advanced Technologies,UK,sales649@example.com,347.239.5504x7554,3.79
+650,Advanced Industries,Canada,sales650@example.com,+1-285-726-9518x5063,4.33
+651,Vertex Electronics,Italy,sales651@example.com,760-725-9133x755,4.64
+652,Prime Electronics,Japan,sales652@example.com,870-516-6539,4.66
+653,Advanced Electronics,France,sales653@example.com,953-203-6834x13957,3.62
+654,Advanced Electronics,Canada,sales654@example.com,326-432-2466,4.74
+655,National Solutions,Canada,sales655@example.com,964-960-0746x2659,4.54
+656,Global Trading,France,sales656@example.com,422-613-8856,4.62
+657,Global Distribution,Canada,sales657@example.com,640-382-5074x0127,3.85
+658,Advanced Solutions,South Korea,sales658@example.com,967-642-1333x55012,3.81
+659,Global Manufacturing,South Korea,sales659@example.com,357-963-7559x1899,3.98
+660,Future Technologies,Japan,sales660@example.com,001-228-332-7605,3.84
+661,Vertex Trading,Germany,sales661@example.com,(410)924-5355,4.55
+662,United Manufacturing,Italy,sales662@example.com,567-989-5550x0339,4.46
+663,National Supply,India,sales663@example.com,+1-573-519-7673x7024,4.41
+664,National Electronics,Canada,sales664@example.com,(873)904-0729x493,3.5
+665,Future Electronics,USA,sales665@example.com,912-431-7479x24669,3.85
+666,NextGen Industries,Germany,sales666@example.com,(584)994-3931x68364,4.63
+667,Vertex Industries,Canada,sales667@example.com,269-819-3992,4.97
+668,Advanced Technologies,Italy,sales668@example.com,(899)327-0663x430,3.65
+669,United Technologies,China,sales669@example.com,281.327.8301x90163,4.78
+670,Dynamic Electronics,Japan,sales670@example.com,(900)554-0408x425,4.05
+671,United Supply,South Korea,sales671@example.com,(895)289-7146,4.82
+672,Advanced Technologies,UK,sales672@example.com,507.995.7851,4.62
+673,Future Electronics,Canada,sales673@example.com,299-894-0418x993,4.01
+674,Global Logistics,UK,sales674@example.com,001-800-584-0506x061,4.15
+675,United Logistics,China,sales675@example.com,848-953-6234,4.8
+676,Advanced Logistics,China,sales676@example.com,335-372-9659x50174,3.84
+677,Prime Distribution,China,sales677@example.com,4345763517,3.65
+678,National Technologies,China,sales678@example.com,627.547.5156,4.36
+679,Advanced Electronics,Italy,sales679@example.com,(918)242-6287x19265,3.88
+680,Elite Solutions,Germany,sales680@example.com,001-525-569-3470x6377,3.7
+681,Global Trading,India,sales681@example.com,+1-785-807-5291x92079,4.9
+682,National Technologies,Italy,sales682@example.com,001-727-861-0971,3.96
+683,Prime Electronics,Italy,sales683@example.com,(502)322-1874,4.66
+684,NextGen Manufacturing,France,sales684@example.com,875.693.3581x575,4.06
+685,Global Technologies,Germany,sales685@example.com,(896)754-0135,3.78
+686,Global Industries,India,sales686@example.com,441.360.1505x69197,4.94
+687,Vertex Industries,Canada,sales687@example.com,001-906-267-3434x382,4.98
+688,United Logistics,Japan,sales688@example.com,912.965.4603x85845,5.0
+689,Future Trading,Italy,sales689@example.com,278-963-7459x592,3.62
+690,Future Industries,France,sales690@example.com,425-568-0770x5257,4.05
+691,Prime Industries,Canada,sales691@example.com,461.863.9409x443,4.46
+692,Advanced Logistics,Canada,sales692@example.com,918.614.2318,4.38
+693,United Industries,Canada,sales693@example.com,(260)436-2456,3.93
+694,Global Technologies,Japan,sales694@example.com,5499706243,4.76
+695,National Supply,UK,sales695@example.com,001-968-488-8898,3.95
+696,Advanced Trading,France,sales696@example.com,344-307-6692x09391,4.82
+697,National Technologies,Italy,sales697@example.com,450-615-9476,4.45
+698,Advanced Logistics,UK,sales698@example.com,807.424.4410x28817,4.35
+699,NextGen Manufacturing,India,sales699@example.com,(351)814-9939,4.83
+700,NextGen Trading,UK,sales700@example.com,+1-794-803-3942x5015,4.37
+701,Advanced Distribution,USA,sales701@example.com,+1-991-921-9950x591,3.66
+702,Vertex Solutions,France,sales702@example.com,(406)737-7768x69971,4.91
+703,Elite Technologies,USA,sales703@example.com,505.869.4798x4597,4.3
+704,Dynamic Technologies,Italy,sales704@example.com,001-216-513-1735x90824,4.29
+705,Prime Logistics,Canada,sales705@example.com,634-531-7338x68426,4.56
+706,Advanced Technologies,South Korea,sales706@example.com,+1-529-845-1699x60117,4.12
+707,Advanced Logistics,Germany,sales707@example.com,+1-274-438-2260x036,3.91
+708,Vertex Electronics,France,sales708@example.com,+1-563-582-6621,3.54
+709,Elite Logistics,South Korea,sales709@example.com,(688)967-7548x9949,4.1
+710,Future Retail,Canada,sales710@example.com,001-808-325-0304x314,4.94
+711,United Technologies,Italy,sales711@example.com,263-886-1905,4.09
+712,National Industries,South Korea,sales712@example.com,(324)279-2601,3.87
+713,United Supply,China,sales713@example.com,3124699907,3.78
+714,Global Electronics,Italy,sales714@example.com,321.253.6756,4.97
+715,NextGen Logistics,South Korea,sales715@example.com,001-323-856-0675x73209,3.62
+716,Dynamic Manufacturing,China,sales716@example.com,001-294-459-8074x427,4.74
+717,United Industries,India,sales717@example.com,+1-927-800-3544,4.08
+718,United Solutions,South Korea,sales718@example.com,254.296.8485x41571,3.74
+719,Global Trading,Canada,sales719@example.com,+1-310-805-2985x57383,4.43
+720,Dynamic Retail,Germany,sales720@example.com,001-495-982-4597x749,4.77
+721,Vertex Supply,Italy,sales721@example.com,6097571595,4.38
+722,NextGen Industries,France,sales722@example.com,(914)340-9945x1702,3.67
+723,Global Supply,Canada,sales723@example.com,9259244050,4.81
+724,NextGen Distribution,India,sales724@example.com,(510)415-5406x827,4.52
+725,Dynamic Manufacturing,China,sales725@example.com,247.365.4890,3.77
+726,United Manufacturing,Canada,sales726@example.com,+1-685-744-4467x0392,4.2
+727,Future Solutions,Germany,sales727@example.com,876-261-0490x986,3.85
+728,United Electronics,Canada,sales728@example.com,001-841-636-2384x8477,4.56
+729,Advanced Solutions,France,sales729@example.com,001-931-374-8411x36228,3.9
+730,Dynamic Technologies,Germany,sales730@example.com,4433736372,4.97
+731,Global Technologies,Germany,sales731@example.com,764-567-3354,4.55
+732,National Solutions,Germany,sales732@example.com,(516)667-6867,4.28
+733,Advanced Technologies,India,sales733@example.com,(809)971-5066x4539,3.82
+734,Vertex Solutions,Canada,sales734@example.com,(976)961-2526,4.49
+735,Future Solutions,Canada,sales735@example.com,871.675.6791x3803,4.9
+736,United Logistics,Japan,sales736@example.com,+1-467-405-3703x405,4.38
+737,Vertex Solutions,USA,sales737@example.com,+1-870-905-8686,3.89
+738,Vertex Distribution,France,sales738@example.com,001-676-274-8172,4.56
+739,National Industries,UK,sales739@example.com,001-610-269-0083x952,4.04
+740,National Supply,China,sales740@example.com,(516)956-4612x910,4.21
+741,Advanced Manufacturing,Canada,sales741@example.com,(678)545-7358x9448,3.66
+742,Prime Trading,China,sales742@example.com,791.283.4454,4.79
+743,Vertex Distribution,Germany,sales743@example.com,892.780.1981x2491,4.91
+744,Future Solutions,Italy,sales744@example.com,+1-702-780-2123x22451,3.52
+745,Elite Retail,Germany,sales745@example.com,9214349824,4.36
+746,Prime Supply,USA,sales746@example.com,803.838.6573,4.73
+747,Prime Supply,South Korea,sales747@example.com,951-233-4204,3.97
+748,United Logistics,Italy,sales748@example.com,265.598.6727,4.71
+749,Future Retail,USA,sales749@example.com,001-930-482-2197x68113,3.77
+750,Dynamic Distribution,Japan,sales750@example.com,209.475.2835x2894,4.83
+751,Dynamic Retail,UK,sales751@example.com,898.607.1401,4.54
+752,National Electronics,Italy,sales752@example.com,837-738-0892,4.64
+753,United Retail,India,sales753@example.com,937.259.8790,4.37
+754,Advanced Supply,South Korea,sales754@example.com,(701)538-8282x24471,4.35
+755,Global Trading,Italy,sales755@example.com,(658)686-2340,4.22
+756,Advanced Industries,Germany,sales756@example.com,360.384.4691,4.65
+757,Prime Logistics,India,sales757@example.com,346.682.9510,4.11
+758,Prime Electronics,Italy,sales758@example.com,(496)471-7026x271,4.02
+759,Dynamic Electronics,UK,sales759@example.com,9116308915,4.43
+760,National Solutions,Germany,sales760@example.com,+1-387-298-8252,4.57
+761,United Distribution,Italy,sales761@example.com,+1-550-415-7824x6043,4.59
+762,National Distribution,India,sales762@example.com,(377)274-6420x9129,3.77
+763,Future Trading,Germany,sales763@example.com,406-614-9414x79988,4.26
+764,Future Electronics,China,sales764@example.com,001-253-327-4071x937,3.99
+765,Dynamic Solutions,Italy,sales765@example.com,371.230.3748,3.65
+766,Prime Retail,India,sales766@example.com,001-981-993-6244,3.67
+767,Future Trading,Japan,sales767@example.com,+1-604-562-2250x25114,4.81
+768,United Technologies,Germany,sales768@example.com,425.457.0258x48377,3.66
+769,Global Solutions,Italy,sales769@example.com,(773)499-2381,4.1
+770,Elite Retail,Germany,sales770@example.com,(927)288-2411x154,4.11
+771,Advanced Trading,Germany,sales771@example.com,001-283-639-2626x359,4.11
+772,Dynamic Electronics,China,sales772@example.com,+1-916-322-8577,3.73
+773,Advanced Distribution,South Korea,sales773@example.com,(286)542-2816x710,4.05
+774,NextGen Distribution,USA,sales774@example.com,(229)580-5769x73826,4.04
+775,United Technologies,Italy,sales775@example.com,411-824-9695x103,4.97
+776,Vertex Manufacturing,France,sales776@example.com,214-414-3775,3.67
+777,Dynamic Industries,USA,sales777@example.com,943-746-6207x19674,3.86
+778,Dynamic Trading,Canada,sales778@example.com,+1-652-666-2783,4.92
+779,National Supply,UK,sales779@example.com,(827)684-4781,4.9
+780,Dynamic Technologies,Japan,sales780@example.com,(995)781-2676,4.53
+781,Dynamic Industries,South Korea,sales781@example.com,(264)854-5153,3.84
+782,Dynamic Technologies,UK,sales782@example.com,(448)262-1736,4.81
+783,Global Industries,Italy,sales783@example.com,300-830-4183x9956,3.73
+784,Advanced Industries,Canada,sales784@example.com,+1-460-218-9096x319,4.18
+785,Dynamic Technologies,UK,sales785@example.com,001-794-558-3254x0032,4.04
+786,Vertex Technologies,Canada,sales786@example.com,258-339-7029x074,3.78
+787,Elite Technologies,USA,sales787@example.com,373-690-3611x557,4.41
+788,Global Logistics,UK,sales788@example.com,(573)362-0359x29049,4.28
+789,Advanced Electronics,France,sales789@example.com,(511)889-3019x910,3.98
+790,Vertex Manufacturing,Canada,sales790@example.com,001-548-348-5290,3.82
+791,National Retail,Germany,sales791@example.com,4072625823,4.19
+792,Advanced Technologies,Italy,sales792@example.com,(228)539-0448x84380,4.27
+793,Advanced Manufacturing,Japan,sales793@example.com,9144674468,4.49
+794,Elite Solutions,Japan,sales794@example.com,(924)739-3007x739,4.28
+795,Future Retail,Japan,sales795@example.com,+1-346-273-4329x4627,4.68
+796,United Logistics,India,sales796@example.com,(903)751-1825,4.41
+797,Prime Solutions,Canada,sales797@example.com,401.481.1827x05303,4.52
+798,Future Electronics,Germany,sales798@example.com,974-587-6113x8616,3.57
+799,National Distribution,Japan,sales799@example.com,294-845-5958x89784,4.85
+800,Future Technologies,USA,sales800@example.com,(608)939-4022x076,4.28
+801,Prime Supply,India,sales801@example.com,548-825-5163x27764,4.84
+802,Prime Solutions,Canada,sales802@example.com,001-805-560-3040x1259,4.02
+803,Elite Industries,Italy,sales803@example.com,(808)792-5114x826,4.18
+804,Vertex Technologies,India,sales804@example.com,+1-739-695-4063x67975,3.64
+805,Dynamic Technologies,China,sales805@example.com,789-571-0394,3.89
+806,Advanced Supply,China,sales806@example.com,(324)639-7552,4.23
+807,Dynamic Retail,India,sales807@example.com,(764)879-9344x7704,4.65
+808,NextGen Trading,Canada,sales808@example.com,845-689-0612,4.09
+809,Prime Trading,USA,sales809@example.com,001-333-804-2438x459,4.62
+810,United Solutions,South Korea,sales810@example.com,583-359-3494x6207,4.29
+811,Advanced Electronics,Japan,sales811@example.com,(997)764-9388,4.05
+812,Dynamic Retail,China,sales812@example.com,+1-476-387-0657x801,3.77
+813,NextGen Industries,Japan,sales813@example.com,(762)811-8118x19695,3.8
+814,Future Supply,Germany,sales814@example.com,555.378.6499x4370,4.54
+815,Future Electronics,Italy,sales815@example.com,419-595-6568x67318,4.96
+816,Future Distribution,USA,sales816@example.com,+1-407-701-0398x21044,4.22
+817,United Trading,Japan,sales817@example.com,(754)618-4348x6214,4.68
+818,Global Electronics,China,sales818@example.com,+1-303-960-0899x645,4.21
+819,Future Retail,India,sales819@example.com,819-795-1656,4.21
+820,NextGen Distribution,UK,sales820@example.com,(918)284-9518,4.63
+821,Future Supply,France,sales821@example.com,001-982-378-2189,4.44
+822,Prime Industries,China,sales822@example.com,+1-603-707-9184,4.72
+823,NextGen Logistics,Germany,sales823@example.com,783-716-3271,4.75
+824,United Trading,India,sales824@example.com,578.435.1637,3.79
+825,NextGen Retail,UK,sales825@example.com,(950)461-7903,4.62
+826,National Manufacturing,Japan,sales826@example.com,(523)999-5153x7087,4.54
+827,Future Retail,France,sales827@example.com,001-501-887-9900,4.23
+828,Elite Retail,South Korea,sales828@example.com,753.749.3921x2218,3.57
+829,Dynamic Solutions,France,sales829@example.com,+1-881-903-8787,4.19
+830,National Solutions,Germany,sales830@example.com,2689760758,4.59
+831,Future Retail,South Korea,sales831@example.com,524-892-0800x52624,4.75
+832,Global Retail,Japan,sales832@example.com,200.900.0029,4.51
+833,National Trading,USA,sales833@example.com,334-679-6632,4.55
+834,Prime Manufacturing,USA,sales834@example.com,(491)616-5042,4.16
+835,Prime Supply,UK,sales835@example.com,456-705-4059x67035,4.37
+836,National Industries,Japan,sales836@example.com,489.444.2891,4.22
+837,Future Distribution,Canada,sales837@example.com,631.737.1624,4.01
+838,NextGen Distribution,South Korea,sales838@example.com,(393)468-2605,3.8
+839,United Trading,China,sales839@example.com,001-974-447-9105,4.65
+840,Global Manufacturing,UK,sales840@example.com,681-407-7861x12836,3.68
+841,Global Trading,UK,sales841@example.com,274.389.3478x5051,3.66
+842,Future Supply,USA,sales842@example.com,(720)716-8084,3.71
+843,Prime Solutions,South Korea,sales843@example.com,3544700450,4.49
+844,NextGen Retail,Germany,sales844@example.com,+1-349-572-7925x79017,4.72
+845,Global Manufacturing,Germany,sales845@example.com,(270)851-5824,4.22
+846,Advanced Technologies,India,sales846@example.com,265-499-4413,3.9
+847,Global Industries,Japan,sales847@example.com,806.517.9087,4.33
+848,Prime Industries,Canada,sales848@example.com,(423)355-0873x96357,4.83
+849,Prime Manufacturing,France,sales849@example.com,001-398-874-8165,4.4
+850,Elite Solutions,USA,sales850@example.com,(594)941-5536,4.62
+851,Advanced Distribution,USA,sales851@example.com,(502)330-3758,4.76
+852,Dynamic Technologies,South Korea,sales852@example.com,387-884-3281x96813,4.7
+853,Dynamic Retail,France,sales853@example.com,(624)596-6203,4.66
+854,Global Logistics,Germany,sales854@example.com,(751)304-1600,3.58
+855,Global Industries,Japan,sales855@example.com,335-846-2168x8404,3.88
+856,Dynamic Supply,USA,sales856@example.com,001-602-291-4631x6310,4.46
+857,National Manufacturing,Italy,sales857@example.com,001-502-904-9946,4.46
+858,Elite Industries,China,sales858@example.com,744.851.6101x69961,3.82
+859,Vertex Electronics,UK,sales859@example.com,428.878.6502x1666,4.66
+860,Advanced Trading,South Korea,sales860@example.com,(267)927-8417x8574,4.05
+861,Global Technologies,Italy,sales861@example.com,230-712-7157x558,4.74
+862,Prime Retail,USA,sales862@example.com,(424)383-0443,4.34
+863,Global Industries,USA,sales863@example.com,+1-437-491-2896x1753,4.23
+864,Advanced Technologies,Canada,sales864@example.com,001-965-603-2104,4.93
+865,NextGen Manufacturing,South Korea,sales865@example.com,+1-931-910-5492x752,4.95
+866,United Solutions,Japan,sales866@example.com,+1-801-454-4533x63330,4.87
+867,Global Solutions,Canada,sales867@example.com,+1-957-257-1549x81678,4.06
+868,Vertex Trading,UK,sales868@example.com,246.628.2351,3.94
+869,NextGen Manufacturing,UK,sales869@example.com,277-442-0447,3.54
+870,National Manufacturing,Canada,sales870@example.com,001-604-441-4990x3096,3.86
+871,Dynamic Logistics,USA,sales871@example.com,+1-478-564-1922x69805,4.07
+872,Global Electronics,France,sales872@example.com,001-849-995-7970x130,3.78
+873,Dynamic Solutions,UK,sales873@example.com,001-629-775-8269x47479,4.62
+874,National Solutions,France,sales874@example.com,+1-479-711-7673,4.84
+875,Future Industries,Canada,sales875@example.com,(659)671-6430x17686,4.35
+876,United Trading,South Korea,sales876@example.com,(577)966-0427x498,3.87
+877,Prime Distribution,South Korea,sales877@example.com,+1-779-937-9244x643,4.23
+878,Vertex Solutions,France,sales878@example.com,+1-422-332-3820,3.76
+879,NextGen Technologies,USA,sales879@example.com,526-344-7481x589,4.67
+880,Vertex Logistics,China,sales880@example.com,+1-420-627-0850x9919,3.6
+881,Advanced Technologies,India,sales881@example.com,(444)748-3402,4.86
+882,Elite Technologies,Canada,sales882@example.com,653-949-2318,4.95
+883,National Supply,USA,sales883@example.com,(669)528-9170x65000,3.77
+884,Advanced Retail,Italy,sales884@example.com,(234)661-0364x736,4.67
+885,Advanced Trading,South Korea,sales885@example.com,+1-701-280-5257x467,4.23
+886,Vertex Supply,France,sales886@example.com,998-765-5746x2181,4.43
+887,Future Logistics,India,sales887@example.com,433-744-3034x0943,5.0
+888,Future Manufacturing,China,sales888@example.com,+1-829-409-3581x83163,3.99
+889,United Industries,Germany,sales889@example.com,(846)471-1588x06807,3.54
+890,National Logistics,Germany,sales890@example.com,533-833-3823,4.56
+891,Future Distribution,South Korea,sales891@example.com,854-348-7296x729,4.51
+892,Elite Retail,India,sales892@example.com,+1-985-744-9538x104,4.71
+893,Elite Industries,Germany,sales893@example.com,001-921-585-7310x9757,4.05
+894,Advanced Technologies,Japan,sales894@example.com,+1-887-559-3735x471,3.99
+895,Global Industries,Canada,sales895@example.com,255-844-3133x466,3.93
+896,United Supply,USA,sales896@example.com,(355)313-7570x540,4.87
+897,National Technologies,UK,sales897@example.com,(701)779-4407,4.73
+898,National Supply,Canada,sales898@example.com,565.594.4084,4.27
+899,Elite Retail,Canada,sales899@example.com,(718)840-8151,4.94
+900,United Solutions,Japan,sales900@example.com,+1-985-491-0737x036,4.71
+901,Prime Solutions,UK,sales901@example.com,306-850-8773x5395,4.6
+902,Vertex Manufacturing,India,sales902@example.com,+1-782-836-3905,4.1
+903,Elite Manufacturing,Germany,sales903@example.com,+1-783-318-0712x375,3.81
+904,Prime Manufacturing,Japan,sales904@example.com,481-239-7476x33364,4.6
+905,NextGen Industries,Japan,sales905@example.com,5966854012,4.75
+906,Vertex Retail,Italy,sales906@example.com,(502)816-8100x7953,4.4
+907,Vertex Trading,UK,sales907@example.com,+1-803-268-7019x5047,4.28
+908,NextGen Logistics,South Korea,sales908@example.com,735-874-3235x691,3.72
+909,National Manufacturing,USA,sales909@example.com,001-943-265-0245,4.75
+910,Global Manufacturing,USA,sales910@example.com,+1-736-973-7383x739,3.84
+911,United Logistics,UK,sales911@example.com,671.897.0960,4.99
+912,Vertex Logistics,USA,sales912@example.com,6009910533,3.58
+913,Future Trading,China,sales913@example.com,(492)438-3323x0066,4.3
+914,United Retail,Germany,sales914@example.com,(419)228-2923x3744,3.78
+915,Dynamic Manufacturing,China,sales915@example.com,(751)246-6835,4.83
+916,National Electronics,Italy,sales916@example.com,+1-704-417-9589x4579,4.53
+917,Elite Technologies,UK,sales917@example.com,657.206.9732x98721,4.74
+918,Prime Logistics,Canada,sales918@example.com,455.666.7545x3900,3.75
+919,United Industries,Canada,sales919@example.com,764.655.2353,4.68
+920,Elite Logistics,USA,sales920@example.com,(703)503-1475,4.37
+921,Elite Logistics,China,sales921@example.com,5358822203,4.32
+922,NextGen Supply,Canada,sales922@example.com,+1-702-736-3000,4.06
+923,Advanced Supply,Japan,sales923@example.com,+1-920-336-2345,4.43
+924,Future Technologies,USA,sales924@example.com,+1-827-698-0804x922,3.81
+925,Future Logistics,Canada,sales925@example.com,948-748-8221,3.51
+926,Vertex Industries,France,sales926@example.com,+1-449-719-9251x02621,3.66
+927,Future Distribution,Canada,sales927@example.com,911-798-9129x546,3.7
+928,Vertex Trading,India,sales928@example.com,2554697477,4.08
+929,Elite Solutions,USA,sales929@example.com,(947)246-8934,3.8
+930,Future Industries,France,sales930@example.com,001-450-415-9526x551,3.64
+931,Vertex Industries,Canada,sales931@example.com,001-584-989-9084x495,3.52
+932,Advanced Technologies,France,sales932@example.com,975.415.7553x5755,4.17
+933,National Electronics,China,sales933@example.com,508.691.7804x3647,4.92
+934,Dynamic Trading,Japan,sales934@example.com,001-776-541-8402x78556,4.38
+935,Elite Technologies,Italy,sales935@example.com,762.297.2508,4.78
+936,Advanced Manufacturing,Germany,sales936@example.com,001-605-578-0534x9864,4.52
+937,Dynamic Retail,USA,sales937@example.com,443.717.5309x42125,4.8
+938,Advanced Solutions,France,sales938@example.com,938-415-2390,3.85
+939,Global Electronics,Japan,sales939@example.com,273.528.3561x0276,4.24
+940,Prime Retail,Germany,sales940@example.com,(273)707-4302,4.74
+941,NextGen Industries,Germany,sales941@example.com,+1-235-864-4222x4973,3.78
+942,Dynamic Manufacturing,France,sales942@example.com,(273)329-4031x1593,4.11
+943,Dynamic Trading,France,sales943@example.com,+1-744-621-6358,4.65
+944,Dynamic Retail,UK,sales944@example.com,+1-829-977-1754x7298,4.27
+945,NextGen Industries,Italy,sales945@example.com,(332)595-0090x79910,4.29
+946,Future Solutions,Japan,sales946@example.com,773.583.3473,3.58
+947,Future Retail,Canada,sales947@example.com,(827)843-5671x85547,3.82
+948,Global Logistics,UK,sales948@example.com,001-511-676-5338,3.79
+949,Advanced Logistics,Italy,sales949@example.com,(657)394-1801x99329,4.93
+950,Prime Manufacturing,Germany,sales950@example.com,+1-309-261-8856x4155,3.56
+951,Global Supply,USA,sales951@example.com,001-519-327-6749,4.37
+952,NextGen Retail,Canada,sales952@example.com,(557)541-7635,3.61
+953,Global Trading,Japan,sales953@example.com,001-920-746-9912x545,4.17
+954,Future Manufacturing,China,sales954@example.com,(266)360-3311x5198,4.11
+955,NextGen Distribution,Germany,sales955@example.com,(392)312-0370x9999,3.53
+956,National Technologies,Japan,sales956@example.com,665.685.5161x4420,3.5
+957,Elite Industries,India,sales957@example.com,331.517.8750x8220,3.66
+958,United Distribution,South Korea,sales958@example.com,366.982.8469,4.98
+959,Global Trading,Italy,sales959@example.com,969-935-2026x31218,4.78
+960,Vertex Electronics,Germany,sales960@example.com,001-616-652-8271x4702,3.96
+961,Elite Electronics,South Korea,sales961@example.com,(950)654-3418x53515,4.07
+962,Dynamic Logistics,Germany,sales962@example.com,997.833.5674x73527,3.61
+963,Future Supply,Germany,sales963@example.com,001-305-790-5534x90253,4.05
+964,National Industries,South Korea,sales964@example.com,001-935-930-4388x37504,3.62
+965,Advanced Electronics,Japan,sales965@example.com,3153926400,3.9
+966,NextGen Technologies,China,sales966@example.com,(755)886-7395,3.54
+967,Advanced Solutions,UK,sales967@example.com,516.788.8759,4.47
+968,Global Manufacturing,Germany,sales968@example.com,3018388993,3.78
+969,NextGen Trading,South Korea,sales969@example.com,308-620-3911x45284,3.98
+970,National Supply,Japan,sales970@example.com,477-988-3667,4.83
+971,NextGen Solutions,South Korea,sales971@example.com,001-727-764-8327x751,4.26
+972,Dynamic Manufacturing,Germany,sales972@example.com,294-746-6915x22946,4.6
+973,Dynamic Industries,China,sales973@example.com,+1-571-411-3620x80914,4.82
+974,Advanced Solutions,UK,sales974@example.com,(743)892-2739,4.77
+975,Vertex Supply,South Korea,sales975@example.com,838.501.7594,3.61
+976,Dynamic Manufacturing,Canada,sales976@example.com,(377)976-8593x74837,4.98
+977,Prime Electronics,Japan,sales977@example.com,001-999-638-5731x80085,4.14
+978,National Electronics,China,sales978@example.com,756.438.0125,4.26
+979,Elite Industries,China,sales979@example.com,(849)331-2064x86323,3.92
+980,NextGen Industries,South Korea,sales980@example.com,5047527222,4.23
+981,Global Trading,Germany,sales981@example.com,790.869.2541x2440,4.54
+982,Dynamic Logistics,UK,sales982@example.com,+1-521-521-2907x134,4.52
+983,Prime Distribution,China,sales983@example.com,(588)348-3988x13391,4.95
+984,Global Electronics,USA,sales984@example.com,+1-994-880-9523,4.97
+985,Future Solutions,USA,sales985@example.com,792-499-2502,4.79
+986,Global Supply,Germany,sales986@example.com,418.209.9748x0655,4.27
+987,United Technologies,China,sales987@example.com,(569)680-2669x09633,4.91
+988,Prime Manufacturing,China,sales988@example.com,408.904.8766,3.61
+989,Future Distribution,Canada,sales989@example.com,606.692.6200x925,4.46
+990,NextGen Trading,USA,sales990@example.com,+1-689-218-5076x89098,4.17
+991,Dynamic Distribution,Germany,sales991@example.com,(543)528-5908x274,4.68
+992,United Supply,Germany,sales992@example.com,441.487.2524,3.54
+993,Vertex Industries,Canada,sales993@example.com,001-217-865-7438x686,4.9
+994,Prime Distribution,France,sales994@example.com,6429388087,4.89
+995,Prime Solutions,India,sales995@example.com,822-679-6186x46742,3.53
+996,National Technologies,UK,sales996@example.com,(277)442-2632x44423,4.37
+997,Prime Manufacturing,Italy,sales997@example.com,001-342-645-5824x9975,5.0
+998,Prime Solutions,Japan,sales998@example.com,001-615-858-5721,3.79
+999,Global Supply,Japan,sales999@example.com,+1-479-527-3845x338,4.62
+1000,United Trading,France,sales1000@example.com,(492)446-2057x354,4.88
+1001,Dynamic Distribution,Japan,sales1001@example.com,001-379-651-9912x1716,4.04
+1002,NextGen Solutions,Germany,sales1002@example.com,359-411-2938x5209,3.68
+1003,NextGen Industries,South Korea,sales1003@example.com,(314)560-5362x134,4.71
+1004,Elite Electronics,UK,sales1004@example.com,001-718-389-8376x0935,3.54
+1005,Dynamic Logistics,India,sales1005@example.com,(779)728-0845,4.04
+1006,Prime Technologies,Canada,sales1006@example.com,(496)697-2246,3.88
+1007,Global Retail,Germany,sales1007@example.com,548-923-3065,4.5
+1008,NextGen Electronics,India,sales1008@example.com,(680)274-6310x348,4.99
+1009,National Technologies,Japan,sales1009@example.com,428-860-4428,4.63
+1010,Global Distribution,Italy,sales1010@example.com,579-572-5736,3.66
+1011,Future Technologies,UK,sales1011@example.com,(566)629-9048,4.89
+1012,Vertex Manufacturing,USA,sales1012@example.com,(924)368-7739,4.12
+1013,Dynamic Technologies,USA,sales1013@example.com,(753)706-2535,4.43
+1014,Advanced Industries,USA,sales1014@example.com,001-550-671-3462x457,4.31
+1015,National Technologies,South Korea,sales1015@example.com,(235)935-3019,4.63
+1016,Elite Technologies,South Korea,sales1016@example.com,(670)241-4017x900,4.76
+1017,Future Trading,Italy,sales1017@example.com,+1-915-934-1491x18762,4.15
+1018,Elite Trading,Canada,sales1018@example.com,(784)575-5228x28427,4.1
+1019,Future Manufacturing,UK,sales1019@example.com,(903)520-3822x184,4.68
+1020,Global Industries,UK,sales1020@example.com,755.304.4664,4.75
+1021,Vertex Logistics,China,sales1021@example.com,896-615-7046x21010,3.95
+1022,Elite Distribution,Italy,sales1022@example.com,993.404.6896,4.64
+1023,Dynamic Trading,South Korea,sales1023@example.com,(241)641-5489,3.98
+1024,Elite Trading,Italy,sales1024@example.com,244-820-2591x204,4.34
+1025,Vertex Logistics,South Korea,sales1025@example.com,001-759-885-4150x323,4.37
+1026,Future Technologies,Japan,sales1026@example.com,(583)411-7948x774,5.0
+1027,Prime Supply,Canada,sales1027@example.com,(522)629-2908,3.61
+1028,Dynamic Industries,UK,sales1028@example.com,719-224-1186x489,4.07
+1029,Advanced Retail,South Korea,sales1029@example.com,001-698-656-3569x83585,3.57
+1030,Prime Industries,France,sales1030@example.com,242.423.6656,4.93
+1031,National Logistics,UK,sales1031@example.com,7689909053,4.72
+1032,National Manufacturing,China,sales1032@example.com,+1-325-754-9853x36207,3.72
+1033,NextGen Electronics,USA,sales1033@example.com,001-478-626-3940x06299,4.18
+1034,Future Electronics,Canada,sales1034@example.com,(315)853-8700,4.63
+1035,Vertex Manufacturing,Germany,sales1035@example.com,001-669-446-5163x94356,4.27
+1036,Future Distribution,China,sales1036@example.com,001-239-210-2246,4.2
+1037,Global Electronics,China,sales1037@example.com,275.692.5764x0190,4.17
+1038,Vertex Technologies,Canada,sales1038@example.com,+1-854-918-8343x9692,4.82
+1039,Future Industries,China,sales1039@example.com,(697)407-8659,4.39
+1040,Future Logistics,France,sales1040@example.com,357-369-0306,4.81
+1041,Dynamic Industries,France,sales1041@example.com,404.991.4936x473,4.11
+1042,Prime Manufacturing,Germany,sales1042@example.com,842.763.2783x870,4.11
+1043,Dynamic Technologies,Germany,sales1043@example.com,(803)954-9389x606,4.99
+1044,NextGen Retail,Japan,sales1044@example.com,(548)506-3469,3.96
+1045,Global Distribution,Japan,sales1045@example.com,421.216.6285,3.62
+1046,Elite Industries,Italy,sales1046@example.com,+1-246-613-7052x80238,3.89
+1047,United Electronics,UK,sales1047@example.com,961-862-3597,4.06
+1048,Advanced Industries,Germany,sales1048@example.com,+1-326-539-7885,3.74
+1049,NextGen Manufacturing,South Korea,sales1049@example.com,929-513-8200x905,4.3
+1050,Prime Retail,UK,sales1050@example.com,001-347-582-4056,3.96
+1051,Elite Distribution,China,sales1051@example.com,001-835-325-3757,3.82
+1052,Global Trading,South Korea,sales1052@example.com,673.738.2677,4.22
+1053,NextGen Distribution,USA,sales1053@example.com,001-780-614-2667x21342,4.14
+1054,Dynamic Logistics,South Korea,sales1054@example.com,(397)637-1861x39308,3.75
+1055,Prime Logistics,UK,sales1055@example.com,860.393.1706x0881,3.83
+1056,Global Industries,China,sales1056@example.com,+1-641-822-3549,4.3
+1057,United Industries,Germany,sales1057@example.com,+1-577-220-6038x75204,4.36
+1058,Dynamic Supply,Japan,sales1058@example.com,342.729.2886x890,4.98
+1059,Future Retail,USA,sales1059@example.com,(521)842-8476,4.14
+1060,Global Trading,UK,sales1060@example.com,(495)449-1441x67871,4.41
+1061,Global Technologies,Germany,sales1061@example.com,+1-937-838-4267x6756,4.46
+1062,National Electronics,UK,sales1062@example.com,382-808-9508,4.6
+1063,Dynamic Logistics,South Korea,sales1063@example.com,674.882.6470,4.86
+1064,Dynamic Distribution,Japan,sales1064@example.com,373-440-5404x65972,4.22
+1065,Future Manufacturing,USA,sales1065@example.com,+1-366-880-6959x547,3.74
+1066,Prime Manufacturing,India,sales1066@example.com,328-476-3511x112,3.51
+1067,National Manufacturing,South Korea,sales1067@example.com,+1-555-360-2620x60499,4.77
+1068,Prime Electronics,France,sales1068@example.com,331-335-3720,4.81
+1069,Dynamic Trading,China,sales1069@example.com,+1-806-346-1595,3.64
+1070,Elite Logistics,Japan,sales1070@example.com,467.560.0771x2488,4.1
+1071,United Distribution,France,sales1071@example.com,001-593-453-5196x33182,4.31
+1072,Future Distribution,Italy,sales1072@example.com,5716379564,4.48
+1073,United Retail,Japan,sales1073@example.com,+1-427-843-9921x0920,4.07
+1074,Future Solutions,USA,sales1074@example.com,288.658.6286x54499,3.53
+1075,Elite Distribution,France,sales1075@example.com,001-872-840-3842x7465,3.86
+1076,National Manufacturing,Italy,sales1076@example.com,527.496.0430x46480,4.77
+1077,Elite Logistics,UK,sales1077@example.com,+1-529-682-4542x346,3.93
+1078,Global Trading,Canada,sales1078@example.com,+1-347-908-6191,3.8
+1079,Prime Supply,France,sales1079@example.com,001-339-390-5828x361,4.19
+1080,United Industries,USA,sales1080@example.com,496-600-7335x5681,4.44
+1081,Future Supply,Japan,sales1081@example.com,398.498.5764,4.2
+1082,Elite Trading,Italy,sales1082@example.com,534-437-9724x286,3.6
+1083,Dynamic Supply,India,sales1083@example.com,001-409-314-6178,4.99
+1084,Advanced Manufacturing,Italy,sales1084@example.com,280-446-5729x8844,4.38
+1085,NextGen Electronics,Canada,sales1085@example.com,957-987-2882x7188,4.61
+1086,Prime Distribution,Italy,sales1086@example.com,815.976.9364x522,4.6
+1087,Future Logistics,UK,sales1087@example.com,(723)645-2290,4.68
+1088,United Technologies,India,sales1088@example.com,8682954353,4.2
+1089,NextGen Logistics,France,sales1089@example.com,539.723.0032,4.25
+1090,Elite Electronics,India,sales1090@example.com,9446574649,4.61
+1091,Advanced Industries,Japan,sales1091@example.com,(597)906-7203x17370,3.83
+1092,NextGen Industries,Italy,sales1092@example.com,355.856.1637x56164,3.67
+1093,Advanced Logistics,South Korea,sales1093@example.com,211-744-4181x049,4.07
+1094,NextGen Trading,Germany,sales1094@example.com,(844)661-4893x66230,4.55
+1095,Dynamic Technologies,Germany,sales1095@example.com,001-815-623-4724x2511,4.59
+1096,Prime Electronics,Japan,sales1096@example.com,300.696.5067x7459,3.82
+1097,Dynamic Logistics,UK,sales1097@example.com,251-420-3018x680,3.57
+1098,Prime Industries,India,sales1098@example.com,646-512-7822x2970,4.61
+1099,Prime Solutions,USA,sales1099@example.com,928-372-1903x902,4.18
+1100,Advanced Manufacturing,China,sales1100@example.com,+1-765-588-2087x5485,4.57
+1101,Dynamic Solutions,Japan,sales1101@example.com,001-971-259-1167,4.93
+1102,Advanced Technologies,Germany,sales1102@example.com,(264)375-5411x859,4.54
+1103,United Retail,India,sales1103@example.com,(555)981-4961,4.68
+1104,Advanced Logistics,China,sales1104@example.com,5703400212,3.65
+1105,Dynamic Industries,China,sales1105@example.com,+1-822-999-8853x53976,4.51
+1106,Advanced Electronics,UK,sales1106@example.com,747.903.2944x9436,4.13
+1107,United Electronics,UK,sales1107@example.com,001-446-645-9948x391,4.35
+1108,Global Distribution,Japan,sales1108@example.com,856-904-6593,3.94
+1109,Future Industries,Japan,sales1109@example.com,+1-787-623-5280x0978,4.15
+1110,Future Technologies,Japan,sales1110@example.com,4947814614,3.88
+1111,Vertex Logistics,China,sales1111@example.com,(780)300-1808,3.61
+1112,Advanced Industries,Germany,sales1112@example.com,900-701-3474,3.57
+1113,Advanced Trading,Italy,sales1113@example.com,314-211-8086,4.25
+1114,NextGen Logistics,France,sales1114@example.com,(609)603-7333x19810,4.15
+1115,Prime Retail,France,sales1115@example.com,(395)226-2642x8361,4.86
+1116,Prime Manufacturing,Germany,sales1116@example.com,(622)570-5902x792,4.58
+1117,Future Retail,Canada,sales1117@example.com,702.977.0730x37430,4.99
+1118,Advanced Technologies,Japan,sales1118@example.com,(467)439-9032,3.57
+1119,Advanced Distribution,South Korea,sales1119@example.com,(639)611-1029x414,4.71
+1120,Global Industries,India,sales1120@example.com,+1-649-292-1258x307,4.07
+1121,Advanced Manufacturing,France,sales1121@example.com,+1-233-265-3124,3.97
+1122,Vertex Manufacturing,China,sales1122@example.com,565-513-9152x274,4.69
+1123,NextGen Distribution,France,sales1123@example.com,001-755-367-1571x78091,4.18
+1124,Future Electronics,UK,sales1124@example.com,485-839-0201x529,3.52
+1125,Global Retail,Canada,sales1125@example.com,(885)962-4900x7113,3.56
+1126,Vertex Logistics,Germany,sales1126@example.com,235-382-5342x58270,4.98
+1127,Dynamic Retail,UK,sales1127@example.com,448.450.2093,4.88
+1128,Elite Technologies,France,sales1128@example.com,441-832-8971,3.8
+1129,Global Industries,Japan,sales1129@example.com,579-810-1843x750,4.37
+1130,NextGen Industries,Italy,sales1130@example.com,(803)558-8274,4.74
+1131,Dynamic Electronics,Japan,sales1131@example.com,748.756.0888,4.98
+1132,Advanced Distribution,UK,sales1132@example.com,5222857556,3.55
+1133,Vertex Technologies,South Korea,sales1133@example.com,205.921.0978,3.73
+1134,Vertex Technologies,USA,sales1134@example.com,(279)832-6554x32798,3.85
+1135,Global Retail,France,sales1135@example.com,2777951326,3.59
+1136,United Industries,UK,sales1136@example.com,001-715-378-1339x250,4.88
+1137,Global Supply,USA,sales1137@example.com,+1-409-630-3262x390,4.53
+1138,Prime Trading,Germany,sales1138@example.com,+1-809-812-6733x075,3.51
+1139,Future Distribution,India,sales1139@example.com,001-778-891-4521,4.65
+1140,Future Retail,USA,sales1140@example.com,6255864693,3.6
+1141,National Industries,India,sales1141@example.com,001-249-309-6537x96670,4.77
+1142,Future Solutions,Germany,sales1142@example.com,(253)987-2463x894,4.3
+1143,Prime Electronics,South Korea,sales1143@example.com,(828)236-6844,4.17
+1144,United Distribution,Italy,sales1144@example.com,(445)963-0335x437,4.93
+1145,Future Industries,UK,sales1145@example.com,231-832-1450,4.72
+1146,Dynamic Electronics,China,sales1146@example.com,+1-822-436-0685x0924,3.93
+1147,National Electronics,UK,sales1147@example.com,590-446-7177,4.33
+1148,United Electronics,Canada,sales1148@example.com,(587)724-6827x880,4.26
+1149,Prime Electronics,Japan,sales1149@example.com,679-682-1512x30087,4.43
+1150,United Manufacturing,India,sales1150@example.com,+1-328-763-6123x0730,4.24
+1151,Elite Supply,Canada,sales1151@example.com,+1-359-518-2306x701,4.25
+1152,Dynamic Supply,Canada,sales1152@example.com,468-751-3798x796,3.84
+1153,Dynamic Trading,Canada,sales1153@example.com,+1-817-535-4988x2088,4.97
+1154,United Distribution,South Korea,sales1154@example.com,323.385.6028,4.74
+1155,NextGen Distribution,France,sales1155@example.com,228-784-0592x0579,4.3
+1156,Vertex Manufacturing,Italy,sales1156@example.com,475-405-2608,4.64
+1157,Prime Technologies,Japan,sales1157@example.com,(541)644-7556x728,4.95
+1158,National Trading,China,sales1158@example.com,(614)241-9493x012,4.43
+1159,Vertex Logistics,Canada,sales1159@example.com,539.305.6478,4.07
+1160,National Industries,China,sales1160@example.com,319-627-7928x80978,4.1
+1161,National Manufacturing,Italy,sales1161@example.com,(490)801-2037x09988,3.75
+1162,Advanced Manufacturing,UK,sales1162@example.com,+1-492-717-3013x3372,3.67
+1163,Dynamic Logistics,South Korea,sales1163@example.com,+1-675-545-3505x813,4.37
+1164,Prime Supply,Italy,sales1164@example.com,001-757-231-0332x4663,4.1
+1165,Future Electronics,India,sales1165@example.com,538.621.8444x8368,4.66
+1166,Vertex Retail,South Korea,sales1166@example.com,365.889.9785,4.76
+1167,Dynamic Industries,UK,sales1167@example.com,001-696-755-0606x1368,3.73
+1168,Elite Manufacturing,China,sales1168@example.com,001-709-981-3695,4.78
+1169,Dynamic Electronics,UK,sales1169@example.com,824-406-5648,4.79
+1170,Vertex Technologies,Japan,sales1170@example.com,+1-618-713-0458x63790,4.96
+1171,Advanced Manufacturing,China,sales1171@example.com,001-585-528-4224,4.02
+1172,NextGen Distribution,South Korea,sales1172@example.com,(920)990-1766x51542,3.86
+1173,Advanced Industries,France,sales1173@example.com,721-267-4606x550,3.7
+1174,Dynamic Trading,China,sales1174@example.com,7363894907,3.85
+1175,Dynamic Technologies,South Korea,sales1175@example.com,887-295-6993,4.45
+1176,Prime Solutions,India,sales1176@example.com,339.904.3742x11028,3.97
+1177,Dynamic Solutions,USA,sales1177@example.com,805-607-9935x78418,4.05
+1178,Future Technologies,Italy,sales1178@example.com,(971)902-2412x878,4.91
+1179,United Trading,South Korea,sales1179@example.com,(958)278-8792x017,3.94
+1180,Elite Logistics,UK,sales1180@example.com,001-656-319-2245x76217,3.6
+1181,Dynamic Electronics,Germany,sales1181@example.com,(918)697-4844x73467,4.94
+1182,NextGen Electronics,France,sales1182@example.com,951.294.3163,3.88
+1183,Vertex Retail,Germany,sales1183@example.com,984-811-8082x5970,4.37
+1184,Advanced Electronics,Canada,sales1184@example.com,369.286.7756x26565,4.58
+1185,National Industries,Germany,sales1185@example.com,4186140990,3.99
+1186,Dynamic Retail,Germany,sales1186@example.com,001-972-766-0505x4806,3.88
+1187,Dynamic Technologies,China,sales1187@example.com,3245019993,3.96
+1188,Elite Supply,Canada,sales1188@example.com,266.867.8651x805,3.56
+1189,National Supply,India,sales1189@example.com,888.981.4276,4.91
+1190,Prime Supply,Canada,sales1190@example.com,001-435-849-9684x8405,4.03
+1191,National Distribution,Canada,sales1191@example.com,(682)420-5588,4.69
+1192,United Logistics,India,sales1192@example.com,001-978-698-3109x81256,4.2
+1193,Prime Logistics,UK,sales1193@example.com,(279)756-3853,4.24
+1194,Prime Electronics,Italy,sales1194@example.com,213.328.8060x7063,3.77
+1195,Advanced Solutions,France,sales1195@example.com,988.861.5628x415,4.22
+1196,Vertex Distribution,USA,sales1196@example.com,206.821.2258x4050,4.6
+1197,Elite Technologies,France,sales1197@example.com,636.810.1779x19723,4.49
+1198,NextGen Retail,China,sales1198@example.com,(507)803-1908x2890,3.99
+1199,Dynamic Supply,Italy,sales1199@example.com,6482594824,3.61
+1200,Prime Supply,France,sales1200@example.com,001-637-995-3801x29470,3.87
+1201,Vertex Industries,India,sales1201@example.com,529-854-8310,4.54
+1202,Dynamic Trading,China,sales1202@example.com,+1-655-230-0458x9672,3.69
+1203,NextGen Retail,Japan,sales1203@example.com,(700)380-1439,4.74
+1204,Global Electronics,India,sales1204@example.com,307-576-5691x840,4.82
+1205,United Solutions,South Korea,sales1205@example.com,+1-651-547-1783x69119,4.74
+1206,United Technologies,UK,sales1206@example.com,8169888875,4.53
+1207,Elite Supply,Japan,sales1207@example.com,+1-439-683-2192,3.67
+1208,Vertex Manufacturing,Canada,sales1208@example.com,273.509.4604x0299,3.8
+1209,National Industries,South Korea,sales1209@example.com,376-829-9198x5218,4.16
+1210,Advanced Retail,India,sales1210@example.com,+1-433-669-9311x336,3.59
+1211,NextGen Electronics,Japan,sales1211@example.com,791-763-5306x4873,4.14
+1212,Vertex Supply,UK,sales1212@example.com,339-343-0411,4.26
+1213,NextGen Logistics,South Korea,sales1213@example.com,8876812553,3.71
+1214,Elite Solutions,China,sales1214@example.com,(745)363-3275x7876,4.68
+1215,Global Retail,UK,sales1215@example.com,001-727-408-6725x13437,3.98
+1216,Advanced Logistics,Italy,sales1216@example.com,869.337.8527,4.58
+1217,United Manufacturing,USA,sales1217@example.com,(560)494-4840,4.08
+1218,NextGen Manufacturing,Germany,sales1218@example.com,+1-555-289-5811x618,3.97
+1219,Elite Solutions,Japan,sales1219@example.com,802.878.5556x799,3.84
+1220,Advanced Logistics,Italy,sales1220@example.com,496.243.1136x51257,4.14
+1221,Dynamic Supply,USA,sales1221@example.com,853-712-3328x204,4.2
+1222,Elite Logistics,Canada,sales1222@example.com,001-581-598-8005x6350,3.84
+1223,Global Trading,France,sales1223@example.com,678-393-4322x0892,4.26
+1224,Future Retail,Germany,sales1224@example.com,593.757.6605x196,4.95
+1225,National Solutions,India,sales1225@example.com,+1-504-580-4709x5659,4.64
+1226,Prime Trading,India,sales1226@example.com,(586)605-8449x7128,4.34
+1227,Global Logistics,USA,sales1227@example.com,361.914.7949x91715,3.83
+1228,United Trading,France,sales1228@example.com,(858)961-2523x744,4.77
+1229,Vertex Distribution,India,sales1229@example.com,219.957.4532,4.44
+1230,Advanced Logistics,India,sales1230@example.com,419.630.3697,4.98
+1231,Dynamic Manufacturing,Canada,sales1231@example.com,496.207.1963x3248,4.66
+1232,Prime Industries,South Korea,sales1232@example.com,(333)222-1390,4.78
+1233,NextGen Distribution,USA,sales1233@example.com,993.648.6081x5201,4.97
+1234,Elite Logistics,China,sales1234@example.com,695-694-2863x649,3.95
+1235,Vertex Trading,Japan,sales1235@example.com,873-989-8554x281,4.5
+1236,NextGen Industries,Canada,sales1236@example.com,001-293-581-7166x189,4.28
+1237,Dynamic Solutions,France,sales1237@example.com,001-220-849-8326x4838,3.79
+1238,Global Solutions,Japan,sales1238@example.com,+1-439-260-5678x918,3.71
+1239,Global Logistics,Japan,sales1239@example.com,+1-276-938-9066x959,4.19
+1240,United Solutions,USA,sales1240@example.com,357.787.0169,4.41
+1241,United Retail,USA,sales1241@example.com,594.671.6708,4.98
+1242,National Technologies,Italy,sales1242@example.com,(326)580-4521x98048,4.4
+1243,Elite Retail,India,sales1243@example.com,557.685.8141x32164,4.6
+1244,Advanced Industries,France,sales1244@example.com,286-519-8812,4.48
+1245,Future Logistics,Canada,sales1245@example.com,001-885-362-3770x7203,4.54
+1246,Dynamic Distribution,South Korea,sales1246@example.com,487.421.4462x55063,4.05
+1247,Future Distribution,China,sales1247@example.com,907-768-3717x5936,4.55
+1248,United Electronics,South Korea,sales1248@example.com,807.746.9246,3.51
+1249,Global Electronics,UK,sales1249@example.com,(309)956-8440,4.99
+1250,Advanced Logistics,USA,sales1250@example.com,870.327.5635,4.9
+1251,National Logistics,South Korea,sales1251@example.com,+1-935-830-8550,3.98
+1252,Future Technologies,India,sales1252@example.com,720.340.1307x0300,4.53
+1253,Vertex Supply,Japan,sales1253@example.com,+1-666-918-3227,4.41
+1254,Elite Industries,South Korea,sales1254@example.com,745-382-4515x77610,4.58
+1255,Global Solutions,South Korea,sales1255@example.com,(750)992-4904,4.7
+1256,United Manufacturing,France,sales1256@example.com,001-343-279-3034x177,3.59
+1257,NextGen Trading,South Korea,sales1257@example.com,3259213827,4.5
+1258,National Electronics,India,sales1258@example.com,709.849.4389,3.89
+1259,Dynamic Industries,USA,sales1259@example.com,534.930.8199x145,3.74
+1260,National Retail,Japan,sales1260@example.com,892-755-2261,3.53
+1261,Prime Technologies,France,sales1261@example.com,378.866.6938x90931,4.23
+1262,Prime Logistics,Italy,sales1262@example.com,001-743-915-3766x299,4.92
+1263,NextGen Technologies,Japan,sales1263@example.com,223.254.2388x738,4.67
+1264,NextGen Technologies,UK,sales1264@example.com,001-332-853-8770x310,4.94
+1265,Vertex Electronics,India,sales1265@example.com,+1-239-790-9657x65570,3.9
+1266,United Trading,Japan,sales1266@example.com,534-842-8602x2653,4.09
+1267,NextGen Technologies,Italy,sales1267@example.com,001-598-311-2927x0812,3.69
+1268,Prime Solutions,India,sales1268@example.com,423.611.0808x0541,4.4
+1269,Dynamic Logistics,China,sales1269@example.com,8042583705,4.8
+1270,NextGen Technologies,France,sales1270@example.com,2743184821,4.65
+1271,Advanced Trading,India,sales1271@example.com,800-676-0785x99556,4.88
+1272,Dynamic Supply,India,sales1272@example.com,669-557-3769,3.84
+1273,Global Distribution,China,sales1273@example.com,001-520-214-6596,4.88
+1274,Global Solutions,China,sales1274@example.com,001-442-740-9626,3.65
+1275,Advanced Solutions,Canada,sales1275@example.com,001-670-282-3267,3.75
+1276,Vertex Supply,Japan,sales1276@example.com,(968)384-9622x11911,4.39
+1277,United Technologies,UK,sales1277@example.com,+1-969-968-2135x983,4.04
+1278,NextGen Retail,Canada,sales1278@example.com,457.953.8039,5.0
+1279,Global Distribution,Canada,sales1279@example.com,287-294-3242x60783,4.01
+1280,Vertex Technologies,UK,sales1280@example.com,544-962-5131,3.62
+1281,Future Manufacturing,Germany,sales1281@example.com,2176257462,4.99
+1282,Elite Manufacturing,Germany,sales1282@example.com,(417)926-0491,4.06
+1283,Dynamic Technologies,South Korea,sales1283@example.com,666.778.1784,4.61
+1284,United Logistics,UK,sales1284@example.com,(403)971-0191,4.58
+1285,Advanced Industries,Germany,sales1285@example.com,824-734-3258x226,4.37
+1286,National Supply,South Korea,sales1286@example.com,828-878-9690x0610,4.33
+1287,Advanced Retail,Germany,sales1287@example.com,+1-407-453-3277x780,3.57
+1288,Global Distribution,Canada,sales1288@example.com,275.204.8080x360,4.74
+1289,National Trading,India,sales1289@example.com,451-296-9559,4.01
+1290,United Distribution,USA,sales1290@example.com,+1-287-691-5831x104,4.06
+1291,Vertex Manufacturing,Japan,sales1291@example.com,(231)250-4085,3.5
+1292,Advanced Trading,UK,sales1292@example.com,(416)249-8391x26618,4.47
+1293,NextGen Technologies,Canada,sales1293@example.com,785-895-6939x8161,4.31
+1294,Dynamic Manufacturing,Canada,sales1294@example.com,319-576-0109,4.51
+1295,NextGen Manufacturing,France,sales1295@example.com,(503)386-9841x6016,4.69
+1296,Vertex Logistics,USA,sales1296@example.com,610.655.7791,3.69
+1297,Future Supply,Canada,sales1297@example.com,(387)224-1312x5125,3.55
+1298,Prime Technologies,South Korea,sales1298@example.com,931-837-1793x27941,4.62
+1299,Future Logistics,USA,sales1299@example.com,001-400-332-2459x0647,4.46
+1300,Elite Supply,Canada,sales1300@example.com,(680)249-2739,3.96
+1301,NextGen Retail,Italy,sales1301@example.com,(859)477-3634x02264,3.55
+1302,Vertex Logistics,Canada,sales1302@example.com,679-945-3156,4.79
+1303,Global Retail,France,sales1303@example.com,685.521.1650,4.5
+1304,Elite Retail,India,sales1304@example.com,647.817.0395x121,4.58
+1305,United Solutions,China,sales1305@example.com,467-657-8920,4.52
+1306,National Technologies,Italy,sales1306@example.com,+1-867-870-9575,3.68
+1307,National Retail,Germany,sales1307@example.com,398.912.6449x1837,3.72
+1308,Global Technologies,UK,sales1308@example.com,+1-267-351-9004x1712,4.35
+1309,Advanced Logistics,Japan,sales1309@example.com,(394)617-3187x7866,3.75
+1310,Elite Solutions,UK,sales1310@example.com,+1-979-441-3088,3.79
+1311,Dynamic Solutions,China,sales1311@example.com,001-202-282-5234x78307,4.41
+1312,National Distribution,Germany,sales1312@example.com,368.907.9549,4.04
+1313,Elite Industries,India,sales1313@example.com,+1-413-293-3276x2394,4.71
+1314,National Solutions,India,sales1314@example.com,001-949-750-3113,3.79
+1315,Prime Technologies,France,sales1315@example.com,(307)374-6910,4.63
+1316,Advanced Trading,India,sales1316@example.com,455-636-3861x447,4.69
+1317,Vertex Retail,Germany,sales1317@example.com,(494)671-2522,4.77
+1318,Advanced Distribution,Italy,sales1318@example.com,679-567-8969x593,3.86
+1319,Future Electronics,China,sales1319@example.com,(675)454-5284,3.75
+1320,Vertex Technologies,Japan,sales1320@example.com,(951)297-7539,4.78
+1321,Vertex Industries,Japan,sales1321@example.com,(549)478-4638,4.1
+1322,Global Logistics,Canada,sales1322@example.com,(919)374-5068,4.62
+1323,United Retail,Germany,sales1323@example.com,+1-866-369-0682x74292,4.23
+1324,Global Retail,Germany,sales1324@example.com,6343198457,3.56
+1325,Vertex Technologies,Germany,sales1325@example.com,403-311-1364x392,4.54
+1326,Dynamic Trading,China,sales1326@example.com,932.816.8983x5089,3.94
+1327,Prime Retail,Canada,sales1327@example.com,(971)511-9282,3.74
+1328,Dynamic Retail,Germany,sales1328@example.com,709.360.7748x435,4.63
+1329,Dynamic Supply,UK,sales1329@example.com,+1-508-838-3829x4246,4.3
+1330,Dynamic Electronics,South Korea,sales1330@example.com,(775)246-4200,3.99
+1331,Elite Logistics,India,sales1331@example.com,(348)465-7784x982,4.51
+1332,National Electronics,South Korea,sales1332@example.com,519.291.4748,3.61
+1333,Future Solutions,Japan,sales1333@example.com,(505)671-4072,3.78
+1334,Dynamic Retail,Japan,sales1334@example.com,(836)635-9627,4.41
+1335,NextGen Distribution,Germany,sales1335@example.com,6639885781,3.76
+1336,National Supply,Canada,sales1336@example.com,(898)975-8959x5555,3.52
+1337,Dynamic Supply,India,sales1337@example.com,786-607-6403,4.4
+1338,Global Industries,Germany,sales1338@example.com,001-586-362-2255x91240,4.25
+1339,Elite Industries,USA,sales1339@example.com,001-894-614-6518,4.0
+1340,Advanced Solutions,Germany,sales1340@example.com,936-515-2706x008,4.0
+1341,NextGen Logistics,USA,sales1341@example.com,6034174074,4.59
+1342,National Distribution,China,sales1342@example.com,555-991-8384,3.75
+1343,National Distribution,USA,sales1343@example.com,593-228-0731,4.36
+1344,Advanced Industries,Germany,sales1344@example.com,(639)242-8847x0211,3.72
+1345,Global Solutions,South Korea,sales1345@example.com,4206078156,4.56
+1346,Elite Technologies,Germany,sales1346@example.com,(447)482-0382,4.64
+1347,Vertex Distribution,Germany,sales1347@example.com,+1-739-572-0559x78806,4.22
+1348,Dynamic Logistics,France,sales1348@example.com,748.846.8593,3.78
+1349,National Solutions,UK,sales1349@example.com,694-262-1384x217,3.95
+1350,Advanced Supply,China,sales1350@example.com,001-795-298-7971x8583,4.99
+1351,Prime Distribution,UK,sales1351@example.com,(591)431-0666,4.37
+1352,Future Industries,Canada,sales1352@example.com,001-527-584-1800x92752,4.91
+1353,Future Industries,Japan,sales1353@example.com,+1-530-798-4771x104,3.7
+1354,Vertex Technologies,Japan,sales1354@example.com,+1-588-793-7749,3.63
+1355,Dynamic Distribution,France,sales1355@example.com,001-536-934-2813x91109,3.69
+1356,Vertex Solutions,France,sales1356@example.com,(767)858-1688,4.0
+1357,Dynamic Electronics,Japan,sales1357@example.com,706.568.6194x0721,4.96
+1358,Advanced Retail,China,sales1358@example.com,788.380.6405x028,4.99
+1359,NextGen Supply,India,sales1359@example.com,961-378-9696,4.07
+1360,Prime Industries,China,sales1360@example.com,(544)530-3326,4.48
+1361,National Supply,Japan,sales1361@example.com,001-403-873-0368x3850,4.8
+1362,United Trading,Germany,sales1362@example.com,(880)255-6277,4.18
+1363,United Technologies,Canada,sales1363@example.com,+1-215-553-6345x6981,4.24
+1364,Global Logistics,USA,sales1364@example.com,428.271.8842,4.09
+1365,Elite Technologies,India,sales1365@example.com,688-724-3857,3.98
+1366,Elite Solutions,China,sales1366@example.com,001-407-805-9228x62555,4.43
+1367,Vertex Logistics,China,sales1367@example.com,786-851-2654,4.69
+1368,NextGen Industries,Canada,sales1368@example.com,(293)927-8524,3.6
+1369,National Trading,Italy,sales1369@example.com,+1-430-627-0398x52648,4.75
+1370,Global Industries,China,sales1370@example.com,459-878-5476x940,4.0
+1371,Global Solutions,France,sales1371@example.com,001-210-238-8635x96793,3.56
+1372,Advanced Manufacturing,Japan,sales1372@example.com,3988287450,3.52
+1373,Global Distribution,Italy,sales1373@example.com,427.714.3591x76244,3.96
+1374,Dynamic Manufacturing,UK,sales1374@example.com,633-527-0988x0428,3.5
+1375,Prime Supply,France,sales1375@example.com,2035987845,3.68
+1376,Dynamic Manufacturing,India,sales1376@example.com,309-339-3689,4.65
+1377,Prime Supply,Italy,sales1377@example.com,(364)560-4129x8585,4.17
+1378,NextGen Logistics,China,sales1378@example.com,823.838.0352,4.17
+1379,United Trading,China,sales1379@example.com,(992)327-7045x47326,4.42
+1380,Prime Logistics,Japan,sales1380@example.com,001-266-405-6070,3.8
+1381,NextGen Technologies,South Korea,sales1381@example.com,001-382-451-5187x8514,4.77
+1382,Prime Trading,USA,sales1382@example.com,408.357.9529,4.4
+1383,Elite Distribution,Japan,sales1383@example.com,408.402.3995,3.91
+1384,NextGen Supply,South Korea,sales1384@example.com,(220)528-9349,4.41
+1385,NextGen Distribution,USA,sales1385@example.com,001-858-503-6691,3.68
+1386,Advanced Trading,Japan,sales1386@example.com,623.375.1438x73003,4.96
+1387,Advanced Supply,France,sales1387@example.com,001-962-422-7625x35679,4.52
+1388,Future Electronics,China,sales1388@example.com,638.657.7519,4.42
+1389,Dynamic Supply,Germany,sales1389@example.com,816.654.3396,4.76
+1390,Global Trading,France,sales1390@example.com,310.397.8969,4.65
+1391,Future Retail,India,sales1391@example.com,001-217-597-8138x57484,4.58
+1392,Future Retail,Italy,sales1392@example.com,337.634.7506x168,3.88
+1393,Prime Logistics,India,sales1393@example.com,729.514.3859,4.94
+1394,Vertex Manufacturing,USA,sales1394@example.com,+1-533-421-4949x1763,4.54
+1395,National Distribution,Japan,sales1395@example.com,6524289010,4.96
+1396,Vertex Trading,China,sales1396@example.com,570-773-1150x3725,4.4
+1397,Advanced Electronics,USA,sales1397@example.com,(910)988-5954x35393,4.43
+1398,Elite Supply,Canada,sales1398@example.com,257.771.0424x2207,4.7
+1399,National Electronics,USA,sales1399@example.com,(484)292-7039x923,4.66
+1400,NextGen Trading,Italy,sales1400@example.com,(483)598-8620x33223,3.64
+1401,Prime Logistics,UK,sales1401@example.com,2569511962,4.8
+1402,Dynamic Industries,India,sales1402@example.com,+1-855-274-5475x616,3.79
+1403,Vertex Electronics,Japan,sales1403@example.com,639-761-6942,4.05
+1404,Prime Supply,UK,sales1404@example.com,(486)569-8981,4.71
+1405,Prime Distribution,Japan,sales1405@example.com,(349)644-4486x01424,4.14
+1406,United Industries,UK,sales1406@example.com,474-874-7099x964,3.91
+1407,Elite Industries,Japan,sales1407@example.com,001-745-700-7842x9171,4.35
+1408,National Retail,UK,sales1408@example.com,(737)559-5387x6867,4.23
+1409,NextGen Manufacturing,India,sales1409@example.com,+1-276-919-7389x8689,4.12
+1410,Advanced Manufacturing,China,sales1410@example.com,001-485-898-3532x7233,4.63
+1411,NextGen Retail,France,sales1411@example.com,(222)234-3578,4.77
+1412,Advanced Industries,UK,sales1412@example.com,298-410-9837,4.39
+1413,Elite Logistics,France,sales1413@example.com,445-301-1970,3.82
+1414,NextGen Distribution,Japan,sales1414@example.com,9962775384,4.77
+1415,National Logistics,China,sales1415@example.com,001-546-776-3276x735,4.6
+1416,Advanced Industries,Italy,sales1416@example.com,+1-518-694-0839x548,3.59
+1417,NextGen Electronics,USA,sales1417@example.com,(264)328-1570x2214,4.7
+1418,Prime Industries,Canada,sales1418@example.com,+1-481-597-7648,4.67
+1419,National Manufacturing,China,sales1419@example.com,001-398-335-7789x74373,4.71
+1420,Vertex Trading,Italy,sales1420@example.com,001-468-721-1440,4.82
+1421,National Trading,Japan,sales1421@example.com,+1-331-688-4817x90111,4.17
+1422,Prime Distribution,UK,sales1422@example.com,351-893-0536x7235,4.76
+1423,Global Retail,Canada,sales1423@example.com,859.863.2411x56140,4.9
+1424,Prime Technologies,Japan,sales1424@example.com,653-436-7911x7734,4.6
+1425,United Trading,USA,sales1425@example.com,001-579-852-1518x10649,4.17
+1426,Global Logistics,France,sales1426@example.com,295-796-1562x5875,3.61
+1427,Vertex Logistics,Italy,sales1427@example.com,367.381.3328x41311,3.75
+1428,United Supply,Canada,sales1428@example.com,(930)305-3206x3813,4.33
+1429,Future Trading,France,sales1429@example.com,3566889096,4.51
+1430,United Technologies,UK,sales1430@example.com,001-774-958-0702x62089,4.14
+1431,Vertex Solutions,South Korea,sales1431@example.com,(861)836-2035,4.73
+1432,Global Logistics,China,sales1432@example.com,+1-467-419-2185x51081,3.81
+1433,Elite Electronics,India,sales1433@example.com,433-377-7408,4.02
+1434,Vertex Logistics,China,sales1434@example.com,(578)525-0544x071,3.73
+1435,National Distribution,Italy,sales1435@example.com,(237)558-5543x63732,4.67
+1436,Elite Electronics,India,sales1436@example.com,(763)825-4407,3.97
+1437,Vertex Retail,USA,sales1437@example.com,907.387.4990x7255,4.86
+1438,Global Manufacturing,South Korea,sales1438@example.com,+1-318-518-2528x81929,3.56
+1439,Global Electronics,Italy,sales1439@example.com,247-775-9375,3.52
+1440,Advanced Electronics,Canada,sales1440@example.com,379-734-9089x910,4.46
+1441,Dynamic Industries,France,sales1441@example.com,(421)501-7899,4.04
+1442,United Trading,Italy,sales1442@example.com,001-555-376-0503x2874,4.14
+1443,Global Solutions,India,sales1443@example.com,925-484-1204x31321,4.68
+1444,United Technologies,France,sales1444@example.com,385-767-8880,4.89
+1445,Future Electronics,South Korea,sales1445@example.com,+1-333-890-2171x18562,3.95
+1446,United Logistics,Japan,sales1446@example.com,756.824.8779x83310,3.95
+1447,Advanced Logistics,France,sales1447@example.com,(404)963-6285x78366,4.47
+1448,National Trading,India,sales1448@example.com,+1-703-711-7875x49218,4.49
+1449,Advanced Solutions,Italy,sales1449@example.com,337.615.3621x09272,4.69
+1450,Prime Technologies,India,sales1450@example.com,(737)358-3172,4.96
+1451,United Logistics,South Korea,sales1451@example.com,985-554-5160x1021,4.49
+1452,Global Retail,Japan,sales1452@example.com,+1-466-941-2148x8898,4.1
+1453,Vertex Distribution,South Korea,sales1453@example.com,738-581-5012,4.43
+1454,Dynamic Industries,India,sales1454@example.com,216.811.1519x38616,4.21
+1455,Dynamic Retail,China,sales1455@example.com,+1-632-364-0021x4869,4.42
+1456,Global Solutions,South Korea,sales1456@example.com,001-656-710-1728x302,4.29
+1457,Prime Manufacturing,India,sales1457@example.com,590.524.1277x761,4.74
+1458,National Solutions,Japan,sales1458@example.com,001-678-702-4496x05084,4.18
+1459,United Logistics,Japan,sales1459@example.com,+1-987-868-4736,4.84
+1460,National Electronics,Canada,sales1460@example.com,001-897-644-2289x5985,4.92
+1461,Vertex Electronics,South Korea,sales1461@example.com,(851)260-3724x4131,4.36
+1462,Global Logistics,India,sales1462@example.com,6809174586,4.5
+1463,Vertex Trading,South Korea,sales1463@example.com,263-489-9518,4.76
+1464,Vertex Trading,Germany,sales1464@example.com,+1-805-702-5870,3.85
+1465,Future Electronics,UK,sales1465@example.com,+1-442-282-4832x8620,3.58
+1466,Advanced Industries,Italy,sales1466@example.com,750-790-8182x65509,3.52
+1467,Global Manufacturing,France,sales1467@example.com,+1-223-796-3714x65848,3.84
+1468,United Industries,Italy,sales1468@example.com,001-718-768-9209x846,3.84
+1469,Vertex Logistics,Germany,sales1469@example.com,(447)870-5893x976,4.68
+1470,United Supply,China,sales1470@example.com,(225)790-9138,4.0
+1471,Elite Logistics,India,sales1471@example.com,5546954614,3.78
+1472,Elite Solutions,Germany,sales1472@example.com,001-894-239-3996,4.67
+1473,Global Trading,Italy,sales1473@example.com,8984118628,4.45
+1474,Global Manufacturing,Germany,sales1474@example.com,(446)486-4216,4.23
+1475,Advanced Distribution,Italy,sales1475@example.com,(646)969-0556,4.43
+1476,National Solutions,USA,sales1476@example.com,001-213-925-2892,3.56
+1477,Advanced Technologies,Canada,sales1477@example.com,(744)824-6360,4.85
+1478,Prime Trading,USA,sales1478@example.com,001-497-947-3425,3.88
+1479,National Retail,India,sales1479@example.com,001-892-645-4076,4.77
+1480,Prime Retail,USA,sales1480@example.com,+1-723-486-9982x97147,4.67
+1481,United Electronics,Canada,sales1481@example.com,276-393-3273,3.63
+1482,Future Distribution,Germany,sales1482@example.com,321.498.3622x04955,3.88
+1483,Future Electronics,Italy,sales1483@example.com,+1-551-418-9973x031,4.17
+1484,Elite Retail,India,sales1484@example.com,(441)486-1934x93453,3.76
+1485,Dynamic Trading,USA,sales1485@example.com,001-972-713-3985x2976,4.53
+1486,Dynamic Solutions,China,sales1486@example.com,993.823.4617,3.77
+1487,Future Manufacturing,USA,sales1487@example.com,963.389.1023,3.6
+1488,Elite Logistics,Italy,sales1488@example.com,883-309-8905x6340,4.3
+1489,Dynamic Distribution,South Korea,sales1489@example.com,(669)267-1256x293,3.57
+1490,Elite Solutions,South Korea,sales1490@example.com,+1-786-313-4955x501,3.98
+1491,United Logistics,China,sales1491@example.com,701.559.6219x1075,4.12
+1492,Dynamic Technologies,USA,sales1492@example.com,274.769.9704x29191,3.83
+1493,United Solutions,UK,sales1493@example.com,+1-606-629-2273,4.45
+1494,Vertex Electronics,India,sales1494@example.com,951.399.2232x801,3.84
+1495,National Retail,France,sales1495@example.com,(478)899-0387x9321,3.9
+1496,Prime Manufacturing,China,sales1496@example.com,575.321.4040,4.87
+1497,Global Manufacturing,Italy,sales1497@example.com,001-901-302-3243x24498,4.84
+1498,Prime Logistics,France,sales1498@example.com,+1-989-836-3229x32957,4.12
+1499,Dynamic Solutions,Japan,sales1499@example.com,(558)687-3453,3.94
+1500,United Retail,France,sales1500@example.com,+1-973-678-7708x0758,3.52
+1501,Dynamic Logistics,Japan,sales1501@example.com,697.950.7136x9972,4.82
+1502,Future Logistics,France,sales1502@example.com,(786)262-3224,4.27
+1503,Dynamic Electronics,Italy,sales1503@example.com,+1-215-288-1762,4.19
+1504,Elite Logistics,Japan,sales1504@example.com,001-320-949-9494x82765,4.29
+1505,United Distribution,South Korea,sales1505@example.com,533.408.3387x77299,4.88
+1506,Future Trading,South Korea,sales1506@example.com,(890)397-4613,3.68
+1507,Global Retail,Canada,sales1507@example.com,+1-553-427-1922,4.2
+1508,National Manufacturing,South Korea,sales1508@example.com,(865)298-6003x581,4.69
+1509,United Industries,Italy,sales1509@example.com,376-227-5737x517,3.54
+1510,Elite Supply,Germany,sales1510@example.com,+1-297-811-4159x327,4.47
+1511,Advanced Solutions,Italy,sales1511@example.com,206.247.9609x009,3.72
+1512,United Trading,India,sales1512@example.com,984-672-6994,4.9
+1513,Future Manufacturing,India,sales1513@example.com,001-920-447-8298x0797,4.21
+1514,Prime Retail,Japan,sales1514@example.com,(661)566-5579x24621,4.01
+1515,Dynamic Solutions,Germany,sales1515@example.com,001-963-811-4505x4574,4.44
+1516,Prime Supply,China,sales1516@example.com,651.429.1587,4.53
+1517,Dynamic Distribution,USA,sales1517@example.com,(302)670-2347,3.63
+1518,Elite Technologies,China,sales1518@example.com,908.413.6992x442,4.81
+1519,Elite Solutions,South Korea,sales1519@example.com,502-634-5767x4180,4.92
+1520,Advanced Industries,UK,sales1520@example.com,201.239.2883,4.34
+1521,Dynamic Solutions,USA,sales1521@example.com,(360)980-5943x284,4.69
+1522,NextGen Supply,South Korea,sales1522@example.com,001-238-588-8476x2461,4.03
+1523,United Retail,South Korea,sales1523@example.com,2905198333,3.77
+1524,Global Retail,Canada,sales1524@example.com,9357135436,4.58
+1525,Advanced Manufacturing,UK,sales1525@example.com,(306)222-5450x458,3.58
+1526,Future Trading,France,sales1526@example.com,538.783.3279x51072,4.81
+1527,United Industries,France,sales1527@example.com,9213977059,4.64
+1528,Prime Retail,Italy,sales1528@example.com,(604)661-5044x158,4.19
+1529,Global Industries,Italy,sales1529@example.com,618-571-4352x78202,4.33
+1530,Advanced Manufacturing,Germany,sales1530@example.com,+1-520-755-8210,3.89
+1531,NextGen Distribution,France,sales1531@example.com,461-300-4580x604,4.76
+1532,Elite Logistics,China,sales1532@example.com,+1-479-509-0094x45196,4.49
+1533,Global Solutions,UK,sales1533@example.com,370-829-8479x567,4.15
+1534,Elite Distribution,Italy,sales1534@example.com,001-247-303-7382,3.8
+1535,Global Electronics,USA,sales1535@example.com,738-270-9299x518,3.77
+1536,NextGen Solutions,Italy,sales1536@example.com,930.664.7998x721,4.98
+1537,Vertex Retail,Italy,sales1537@example.com,633.250.9488,4.18
+1538,Prime Trading,Italy,sales1538@example.com,495-943-1347x8212,4.68
+1539,Future Technologies,Germany,sales1539@example.com,(974)427-4067x495,3.53
+1540,National Supply,Japan,sales1540@example.com,8948504136,3.95
+1541,Prime Retail,Japan,sales1541@example.com,891.246.7143x38204,3.88
+1542,Vertex Logistics,USA,sales1542@example.com,(551)734-0506x97789,3.93
+1543,NextGen Electronics,Italy,sales1543@example.com,001-657-715-6330x907,4.11
+1544,Global Trading,Germany,sales1544@example.com,323-456-7005x061,4.57
+1545,NextGen Logistics,Canada,sales1545@example.com,(265)799-2799x18555,4.84
+1546,Prime Distribution,South Korea,sales1546@example.com,548.932.6041x97552,3.76
+1547,Prime Industries,China,sales1547@example.com,450.645.3006x76068,3.51
+1548,Vertex Supply,China,sales1548@example.com,890-860-8739x0423,3.66
+1549,Elite Logistics,South Korea,sales1549@example.com,993-247-2360x9599,4.84
+1550,Advanced Technologies,South Korea,sales1550@example.com,+1-915-580-3275,4.0
+1551,Elite Technologies,Japan,sales1551@example.com,+1-619-574-3395x0666,3.85
+1552,Prime Solutions,India,sales1552@example.com,567.553.6115x06035,3.83
+1553,Future Trading,Canada,sales1553@example.com,212.326.4806x664,4.54
+1554,Elite Distribution,Canada,sales1554@example.com,001-886-431-9836,3.56
+1555,National Electronics,Italy,sales1555@example.com,(407)707-5619x861,3.91
+1556,Advanced Industries,Germany,sales1556@example.com,628.355.9860x485,4.39
+1557,Elite Distribution,China,sales1557@example.com,439.906.0692x5109,3.55
+1558,Prime Manufacturing,France,sales1558@example.com,483-438-4368x0869,3.78
+1559,Global Logistics,Italy,sales1559@example.com,(687)463-5187x777,4.72
+1560,Advanced Electronics,South Korea,sales1560@example.com,(409)452-6012x938,3.76
+1561,Dynamic Trading,China,sales1561@example.com,+1-868-615-2631,3.71
+1562,Vertex Supply,USA,sales1562@example.com,001-258-578-3945x84097,4.87
+1563,National Retail,Germany,sales1563@example.com,7654226951,3.98
+1564,United Distribution,China,sales1564@example.com,(327)554-5447,4.25
+1565,NextGen Industries,South Korea,sales1565@example.com,968.308.0690x59713,4.91
+1566,Advanced Electronics,China,sales1566@example.com,513-926-2304x55778,3.67
+1567,Vertex Manufacturing,India,sales1567@example.com,+1-601-637-9054x4230,4.34
+1568,NextGen Supply,USA,sales1568@example.com,770.549.6661x83678,4.58
+1569,NextGen Manufacturing,France,sales1569@example.com,914-752-6441x203,3.77
+1570,Vertex Supply,Germany,sales1570@example.com,001-913-706-4627x39486,3.97
+1571,Elite Industries,South Korea,sales1571@example.com,001-674-503-0929x721,4.68
+1572,Global Technologies,UK,sales1572@example.com,001-942-954-0426x241,4.0
+1573,Global Retail,Japan,sales1573@example.com,2126538160,4.38
+1574,National Electronics,China,sales1574@example.com,341-635-2993x26146,3.76
+1575,Vertex Distribution,China,sales1575@example.com,+1-221-402-1098x5535,3.75
+1576,Prime Retail,South Korea,sales1576@example.com,872.836.4533x09411,3.58
+1577,Global Trading,South Korea,sales1577@example.com,501.232.5683x29684,3.52
+1578,Future Electronics,UK,sales1578@example.com,(948)602-0198x5720,3.97
+1579,Vertex Distribution,Italy,sales1579@example.com,+1-553-376-7360x721,4.51
+1580,Advanced Manufacturing,Japan,sales1580@example.com,+1-703-940-7239x76552,3.66
+1581,Future Retail,South Korea,sales1581@example.com,664.281.1913x1704,4.98
+1582,Vertex Technologies,Italy,sales1582@example.com,9668927187,4.16
+1583,Prime Manufacturing,South Korea,sales1583@example.com,001-320-841-8840,4.71
+1584,NextGen Retail,UK,sales1584@example.com,(433)612-5782x65819,3.83
+1585,Dynamic Electronics,Canada,sales1585@example.com,+1-765-493-6923x83995,4.12
+1586,Elite Technologies,India,sales1586@example.com,499-567-0236x8152,4.64
+1587,Prime Electronics,Germany,sales1587@example.com,(666)270-5796x222,4.42
+1588,Dynamic Retail,Italy,sales1588@example.com,781-629-0870x7610,3.78
+1589,NextGen Solutions,France,sales1589@example.com,899-978-6740,4.82
+1590,Advanced Industries,Italy,sales1590@example.com,001-602-547-0225x455,4.74
+1591,Global Manufacturing,China,sales1591@example.com,+1-660-901-9606x441,4.39
+1592,Vertex Supply,Italy,sales1592@example.com,721-592-1141x649,3.73
+1593,Dynamic Technologies,UK,sales1593@example.com,001-551-273-4466,3.89
+1594,Global Logistics,South Korea,sales1594@example.com,001-718-953-8207x57746,4.64
+1595,NextGen Solutions,South Korea,sales1595@example.com,(321)851-0379x14286,4.37
+1596,United Supply,India,sales1596@example.com,001-495-473-6971x9483,3.85
+1597,Elite Manufacturing,UK,sales1597@example.com,001-717-367-9639x44734,4.31
+1598,Vertex Retail,Japan,sales1598@example.com,861-697-2262x3447,4.93
+1599,United Retail,Germany,sales1599@example.com,+1-572-570-9542x80026,3.67
+1600,Future Electronics,Germany,sales1600@example.com,+1-301-605-9977x56379,3.75
+1601,Elite Distribution,Germany,sales1601@example.com,+1-818-665-4405x341,3.67
+1602,Elite Solutions,USA,sales1602@example.com,(722)718-2889,4.21
+1603,NextGen Industries,USA,sales1603@example.com,711-877-5256,4.71
+1604,Dynamic Electronics,UK,sales1604@example.com,298.784.7252x5627,4.71
+1605,Elite Trading,France,sales1605@example.com,(885)683-7806x476,4.43
+1606,United Logistics,South Korea,sales1606@example.com,001-449-336-7059x444,3.53
+1607,Advanced Solutions,USA,sales1607@example.com,(728)246-9587,4.53
+1608,Future Trading,UK,sales1608@example.com,001-863-346-3826,4.2
+1609,Vertex Trading,Germany,sales1609@example.com,+1-447-342-1255x1885,4.6
+1610,Vertex Trading,China,sales1610@example.com,+1-448-872-8516x80207,3.82
+1611,NextGen Supply,China,sales1611@example.com,324.575.9005x168,4.79
+1612,Dynamic Solutions,USA,sales1612@example.com,+1-807-938-6509,4.31
+1613,Dynamic Technologies,USA,sales1613@example.com,(983)355-7841x571,3.88
+1614,United Solutions,South Korea,sales1614@example.com,716-577-0317,4.42
+1615,United Distribution,Japan,sales1615@example.com,606.332.4574,4.71
+1616,National Technologies,Italy,sales1616@example.com,001-805-340-3539,3.87
+1617,Global Distribution,France,sales1617@example.com,729.389.4007,4.22
+1618,Future Industries,USA,sales1618@example.com,(980)200-2005x7897,3.64
+1619,National Solutions,China,sales1619@example.com,611.710.2310x0266,3.7
+1620,Elite Solutions,India,sales1620@example.com,(900)824-1817,3.71
+1621,Elite Supply,France,sales1621@example.com,752-622-9789,4.84
+1622,Dynamic Trading,USA,sales1622@example.com,001-996-635-7777x7109,4.68
+1623,Vertex Distribution,Italy,sales1623@example.com,001-903-820-9580x149,4.06
+1624,NextGen Manufacturing,South Korea,sales1624@example.com,621-950-9159x07756,4.23
+1625,Dynamic Electronics,Canada,sales1625@example.com,240.607.6529x633,3.67
+1626,National Retail,India,sales1626@example.com,913.337.8680x6268,4.47
+1627,Dynamic Retail,South Korea,sales1627@example.com,436-512-0977x72519,4.95
+1628,NextGen Distribution,UK,sales1628@example.com,328-639-8990x1475,3.78
+1629,Future Technologies,Germany,sales1629@example.com,(348)526-1724,4.1
+1630,Global Technologies,India,sales1630@example.com,397.998.2576,4.29
+1631,Future Retail,Germany,sales1631@example.com,001-652-611-1546x17510,3.76
+1632,Future Supply,Italy,sales1632@example.com,925.432.2233,4.66
+1633,Elite Electronics,South Korea,sales1633@example.com,(474)503-5690x9427,4.05
+1634,Global Solutions,South Korea,sales1634@example.com,368-286-1217x628,4.94
+1635,Advanced Industries,Germany,sales1635@example.com,479.454.0487,4.39
+1636,Future Supply,France,sales1636@example.com,+1-925-542-8382x233,4.71
+1637,NextGen Trading,UK,sales1637@example.com,(846)482-8687,4.61
+1638,Elite Industries,France,sales1638@example.com,(799)961-4399x7962,4.74
+1639,Advanced Supply,Canada,sales1639@example.com,944.213.9018x780,4.31
+1640,Future Supply,USA,sales1640@example.com,(558)407-8028x1898,3.62
+1641,Global Industries,Germany,sales1641@example.com,(828)994-6439x39286,3.99
+1642,Prime Manufacturing,Italy,sales1642@example.com,580.376.6622x03421,4.26
+1643,Global Industries,China,sales1643@example.com,+1-542-460-5444x143,3.79
+1644,Advanced Technologies,Italy,sales1644@example.com,(792)784-1695,3.59
+1645,United Logistics,France,sales1645@example.com,559-221-4883x9094,4.99
+1646,Future Electronics,USA,sales1646@example.com,589.615.4295,3.8
+1647,Elite Manufacturing,France,sales1647@example.com,001-361-726-3063x10793,4.09
+1648,United Electronics,France,sales1648@example.com,2314975544,3.59
+1649,Elite Solutions,UK,sales1649@example.com,(591)841-8356x26148,4.55
+1650,United Manufacturing,Germany,sales1650@example.com,(410)867-7052,4.2
+1651,Global Electronics,Germany,sales1651@example.com,+1-419-414-4839x0171,4.71
+1652,Vertex Solutions,Germany,sales1652@example.com,626-940-9474x0479,4.8
+1653,Dynamic Technologies,Japan,sales1653@example.com,651.625.2869x4956,4.12
+1654,NextGen Supply,Italy,sales1654@example.com,9207825199,4.3
+1655,Global Distribution,Japan,sales1655@example.com,(411)715-0675,4.26
+1656,Dynamic Solutions,China,sales1656@example.com,470.948.4756x11002,4.3
+1657,Advanced Retail,Germany,sales1657@example.com,526.777.6156,4.71
+1658,National Supply,France,sales1658@example.com,(765)967-2841x744,3.64
+1659,Global Trading,Germany,sales1659@example.com,3092010136,3.86
+1660,United Industries,South Korea,sales1660@example.com,(299)812-7619x684,3.89
+1661,Dynamic Technologies,South Korea,sales1661@example.com,962.449.9114,4.24
+1662,Vertex Technologies,South Korea,sales1662@example.com,743.352.9544,4.95
+1663,Dynamic Electronics,Italy,sales1663@example.com,001-656-803-0544x250,4.99
+1664,National Technologies,France,sales1664@example.com,+1-487-317-1571x81326,4.22
+1665,Advanced Distribution,South Korea,sales1665@example.com,384.709.5456,3.97
+1666,Future Trading,Germany,sales1666@example.com,001-963-829-1129x01968,3.58
+1667,United Trading,France,sales1667@example.com,001-555-760-6162x988,3.6
+1668,Future Supply,Italy,sales1668@example.com,732.335.6277,4.9
+1669,Elite Manufacturing,Japan,sales1669@example.com,918.778.6648,4.73
+1670,Elite Distribution,South Korea,sales1670@example.com,748-285-0936,4.06
+1671,Vertex Manufacturing,USA,sales1671@example.com,314-625-0973,4.81
+1672,Dynamic Industries,France,sales1672@example.com,+1-934-260-6898,3.67
+1673,Future Trading,UK,sales1673@example.com,4537164688,3.9
+1674,NextGen Technologies,India,sales1674@example.com,9212042097,4.23
+1675,Dynamic Solutions,South Korea,sales1675@example.com,001-950-919-9043x86297,4.29
+1676,Vertex Logistics,France,sales1676@example.com,497-533-9213x57551,3.69
+1677,National Trading,Italy,sales1677@example.com,(353)881-2277,4.0
+1678,Vertex Supply,China,sales1678@example.com,242.210.5580x948,4.11
+1679,Dynamic Solutions,France,sales1679@example.com,(215)622-5833x6979,3.99
+1680,Elite Logistics,Japan,sales1680@example.com,001-644-335-9316x842,3.76
+1681,National Solutions,UK,sales1681@example.com,001-809-867-2318x573,4.14
+1682,Vertex Trading,UK,sales1682@example.com,001-321-261-6492x5533,4.52
+1683,Prime Supply,France,sales1683@example.com,2445039322,4.99
+1684,Prime Distribution,UK,sales1684@example.com,+1-716-560-9347x384,4.87
+1685,Advanced Distribution,Canada,sales1685@example.com,001-664-649-9000x2495,3.94
+1686,United Industries,France,sales1686@example.com,+1-731-549-9112x778,3.79
+1687,National Logistics,China,sales1687@example.com,+1-903-403-7786x51723,4.1
+1688,Future Trading,Italy,sales1688@example.com,355-711-0171x500,4.7
+1689,Elite Solutions,Germany,sales1689@example.com,7487331925,4.33
+1690,United Industries,USA,sales1690@example.com,527.833.7447x5868,3.79
+1691,Global Retail,India,sales1691@example.com,730-652-1319x981,4.07
+1692,Prime Manufacturing,Germany,sales1692@example.com,941.941.2264,3.78
+1693,Vertex Retail,USA,sales1693@example.com,880-907-3751,3.74
+1694,Advanced Electronics,Canada,sales1694@example.com,(760)873-4648,4.25
+1695,Advanced Trading,India,sales1695@example.com,001-442-961-5983,3.96
+1696,NextGen Electronics,USA,sales1696@example.com,242-232-6750,4.25
+1697,National Solutions,South Korea,sales1697@example.com,+1-991-489-4733,4.97
+1698,Elite Distribution,Italy,sales1698@example.com,(580)373-6672x327,4.04
+1699,Advanced Manufacturing,South Korea,sales1699@example.com,707-742-0740x21177,3.79
+1700,Prime Electronics,Japan,sales1700@example.com,(299)284-4334x988,4.13
+1701,NextGen Industries,UK,sales1701@example.com,5707987149,3.75
+1702,National Trading,South Korea,sales1702@example.com,925.357.8316x62221,4.18
+1703,NextGen Industries,South Korea,sales1703@example.com,+1-251-454-5021x37271,3.94
+1704,NextGen Supply,Canada,sales1704@example.com,(279)973-7131,4.92
+1705,United Trading,France,sales1705@example.com,(491)644-9158x57623,4.5
+1706,Future Manufacturing,Japan,sales1706@example.com,333-445-7501x5361,4.09
+1707,Future Electronics,UK,sales1707@example.com,643.796.1175x23641,4.31
+1708,NextGen Retail,France,sales1708@example.com,001-461-248-4771x66393,3.65
+1709,Dynamic Technologies,USA,sales1709@example.com,(316)804-6830x99111,4.57
+1710,Elite Electronics,France,sales1710@example.com,308.639.0212x886,4.39
+1711,United Retail,UK,sales1711@example.com,844-207-2849x96587,4.93
+1712,United Manufacturing,China,sales1712@example.com,9357038982,4.45
+1713,Global Trading,Japan,sales1713@example.com,(728)526-9711x812,3.58
+1714,National Retail,India,sales1714@example.com,001-684-438-8904x67361,4.33
+1715,Vertex Retail,Japan,sales1715@example.com,001-708-415-7583x1177,4.15
+1716,Dynamic Manufacturing,USA,sales1716@example.com,454-547-0926x939,4.9
+1717,Vertex Industries,India,sales1717@example.com,662.307.9737x5139,3.92
+1718,Prime Manufacturing,India,sales1718@example.com,7698833912,4.96
+1719,Elite Manufacturing,USA,sales1719@example.com,7592077012,4.39
+1720,Vertex Electronics,Germany,sales1720@example.com,+1-507-653-6877x992,4.96
+1721,Elite Electronics,Japan,sales1721@example.com,669-517-9409x128,4.76
+1722,Prime Manufacturing,France,sales1722@example.com,727.970.4413,4.32
+1723,Future Electronics,Japan,sales1723@example.com,001-996-456-5669x28516,4.26
+1724,Global Retail,Italy,sales1724@example.com,+1-574-779-1954x4725,4.18
+1725,Prime Retail,China,sales1725@example.com,261.308.3906,4.36
+1726,Elite Technologies,UK,sales1726@example.com,001-628-774-3167x160,3.96
+1727,Dynamic Industries,South Korea,sales1727@example.com,+1-432-677-9098,4.78
+1728,Advanced Trading,USA,sales1728@example.com,(969)949-1530,4.72
+1729,Global Logistics,Germany,sales1729@example.com,2998720881,4.78
+1730,National Industries,China,sales1730@example.com,625.722.2474x2551,4.56
+1731,Elite Solutions,India,sales1731@example.com,+1-950-629-7803x5471,3.9
+1732,Prime Distribution,Germany,sales1732@example.com,001-752-338-2782,3.75
+1733,Elite Distribution,Canada,sales1733@example.com,6119638928,4.45
+1734,Vertex Trading,India,sales1734@example.com,6173466133,3.55
+1735,NextGen Trading,Canada,sales1735@example.com,358.296.4724x59442,3.67
+1736,Advanced Distribution,France,sales1736@example.com,001-868-963-3990,4.14
+1737,Advanced Manufacturing,Germany,sales1737@example.com,271.942.0331,4.14
+1738,United Distribution,USA,sales1738@example.com,+1-211-426-6101,4.75
+1739,Vertex Solutions,France,sales1739@example.com,(802)780-4689,3.8
+1740,National Electronics,China,sales1740@example.com,670-275-8381,4.32
+1741,Vertex Supply,Japan,sales1741@example.com,001-634-922-2151,4.06
+1742,Vertex Supply,USA,sales1742@example.com,762-499-7892,4.79
+1743,Vertex Logistics,Italy,sales1743@example.com,001-722-794-8019x9843,4.18
+1744,National Technologies,UK,sales1744@example.com,+1-668-998-3092x93857,4.43
+1745,Vertex Logistics,India,sales1745@example.com,231.506.2882,4.01
+1746,National Distribution,France,sales1746@example.com,(312)505-7321,4.12
+1747,Advanced Electronics,Canada,sales1747@example.com,506.354.6032,4.26
+1748,NextGen Technologies,Germany,sales1748@example.com,220.661.6520x3425,3.51
+1749,United Technologies,South Korea,sales1749@example.com,412-938-7549x1821,4.97
+1750,Global Manufacturing,Canada,sales1750@example.com,(901)736-1708x087,3.98
+1751,Dynamic Industries,Italy,sales1751@example.com,914-966-2110,4.16
+1752,NextGen Trading,China,sales1752@example.com,+1-755-408-7624x155,3.57
+1753,NextGen Industries,Italy,sales1753@example.com,616.769.7379x538,3.95
+1754,National Industries,Japan,sales1754@example.com,(903)349-1111x5769,4.89
+1755,Prime Logistics,USA,sales1755@example.com,790-976-1386x20050,3.69
+1756,NextGen Industries,USA,sales1756@example.com,366-400-8940,4.86
+1757,Future Trading,Canada,sales1757@example.com,834-295-4861x75383,4.35
+1758,Vertex Logistics,China,sales1758@example.com,811-323-9524x8989,4.72
+1759,NextGen Logistics,UK,sales1759@example.com,001-550-653-9380x2559,4.23
+1760,Prime Technologies,Japan,sales1760@example.com,260-549-4124,4.73
+1761,Elite Solutions,Germany,sales1761@example.com,001-579-850-4783x3530,4.56
+1762,Prime Logistics,India,sales1762@example.com,(953)974-8365x26284,4.97
+1763,Prime Technologies,UK,sales1763@example.com,934.379.7518,4.32
+1764,Vertex Supply,Japan,sales1764@example.com,001-342-734-0909,4.58
+1765,Elite Solutions,UK,sales1765@example.com,5959637338,4.1
+1766,Elite Supply,India,sales1766@example.com,001-744-687-1611,4.29
+1767,National Logistics,UK,sales1767@example.com,001-561-555-3385x08192,3.96
+1768,National Distribution,Italy,sales1768@example.com,313-260-5017,4.07
+1769,United Logistics,Germany,sales1769@example.com,977.615.3752x227,4.44
+1770,Prime Solutions,South Korea,sales1770@example.com,+1-258-604-3539x510,4.11
+1771,NextGen Electronics,China,sales1771@example.com,(397)526-4171x891,4.53
+1772,United Logistics,UK,sales1772@example.com,9482752998,3.63
+1773,Elite Retail,Italy,sales1773@example.com,+1-548-367-0355x83275,3.83
+1774,Vertex Retail,China,sales1774@example.com,429-857-4591x9756,3.87
+1775,Prime Industries,Italy,sales1775@example.com,907-361-7456x0055,4.74
+1776,Future Retail,South Korea,sales1776@example.com,865.996.8829,4.7
+1777,United Distribution,Canada,sales1777@example.com,(637)347-6749,3.88
+1778,NextGen Solutions,France,sales1778@example.com,(364)949-3441,4.36
+1779,Advanced Manufacturing,UK,sales1779@example.com,664-940-6940x053,3.78
+1780,Dynamic Manufacturing,India,sales1780@example.com,+1-791-898-4022,3.82
+1781,Future Logistics,UK,sales1781@example.com,001-277-735-8775,4.88
+1782,Global Supply,USA,sales1782@example.com,550-487-2118,4.3
+1783,Vertex Manufacturing,South Korea,sales1783@example.com,001-742-783-2907x725,4.86
+1784,Prime Distribution,France,sales1784@example.com,857.241.6021x1411,4.45
+1785,Vertex Manufacturing,China,sales1785@example.com,267-765-6931x8152,4.59
+1786,Dynamic Retail,USA,sales1786@example.com,265.567.1656x890,4.43
+1787,United Supply,Japan,sales1787@example.com,001-805-641-3438x5628,4.93
+1788,Dynamic Retail,USA,sales1788@example.com,977-665-1977x2699,4.7
+1789,Advanced Technologies,India,sales1789@example.com,(506)575-3543x4698,4.25
+1790,National Electronics,South Korea,sales1790@example.com,001-750-490-0897,3.84
+1791,United Logistics,Japan,sales1791@example.com,870.790.1819x34498,4.33
+1792,National Electronics,China,sales1792@example.com,001-706-510-4159,3.71
+1793,Prime Logistics,Germany,sales1793@example.com,289-791-7093,3.94
+1794,Dynamic Retail,Germany,sales1794@example.com,9768984527,4.95
+1795,United Electronics,South Korea,sales1795@example.com,(842)581-1342x468,4.19
+1796,Vertex Trading,South Korea,sales1796@example.com,(340)344-2087x7375,4.72
+1797,Advanced Retail,Japan,sales1797@example.com,885-468-8050,4.16
+1798,Elite Supply,Japan,sales1798@example.com,(549)561-7365,4.73
+1799,Dynamic Supply,USA,sales1799@example.com,522-734-3506,4.67
+1800,National Technologies,France,sales1800@example.com,(456)442-2280x580,5.0
+1801,Vertex Manufacturing,India,sales1801@example.com,001-832-316-2698x4782,4.27
+1802,Vertex Supply,France,sales1802@example.com,+1-353-301-5636,4.92
+1803,National Distribution,UK,sales1803@example.com,001-850-316-7902,4.52
+1804,Dynamic Technologies,India,sales1804@example.com,348.285.6968x056,4.35
+1805,Dynamic Electronics,Italy,sales1805@example.com,4744195435,4.82
+1806,Dynamic Industries,Canada,sales1806@example.com,834-849-0586,3.54
+1807,Dynamic Supply,Canada,sales1807@example.com,664-299-7896x475,4.16
+1808,NextGen Manufacturing,Germany,sales1808@example.com,(350)246-5734x3552,3.81
+1809,Vertex Logistics,France,sales1809@example.com,779.953.5205,3.98
+1810,Vertex Supply,Japan,sales1810@example.com,001-381-463-7254x682,4.34
+1811,Future Retail,Canada,sales1811@example.com,4498744739,3.53
+1812,Vertex Industries,UK,sales1812@example.com,(979)389-0150x4998,4.46
+1813,Prime Solutions,France,sales1813@example.com,(358)453-8068x185,5.0
+1814,United Logistics,USA,sales1814@example.com,5134011921,4.14
+1815,United Manufacturing,South Korea,sales1815@example.com,242-749-6490x370,4.9
+1816,Elite Manufacturing,South Korea,sales1816@example.com,480.760.8098x35989,4.67
+1817,Advanced Logistics,Germany,sales1817@example.com,820.802.1305x8184,3.92
+1818,Elite Industries,China,sales1818@example.com,001-583-906-5944,4.0
+1819,Dynamic Electronics,UK,sales1819@example.com,+1-436-812-1797x74633,4.57
+1820,Dynamic Trading,USA,sales1820@example.com,(770)639-9652,3.86
+1821,NextGen Industries,France,sales1821@example.com,001-235-529-4482x899,4.0
+1822,National Supply,Germany,sales1822@example.com,+1-410-297-3230x736,3.87
+1823,Advanced Logistics,Japan,sales1823@example.com,518-830-6300x9409,3.94
+1824,Global Distribution,China,sales1824@example.com,209-680-9914x547,4.82
+1825,Dynamic Manufacturing,China,sales1825@example.com,+1-746-988-6744x844,4.66
+1826,National Trading,China,sales1826@example.com,(785)230-4523,4.5
+1827,Vertex Logistics,India,sales1827@example.com,001-926-377-7688x591,4.45
+1828,National Manufacturing,France,sales1828@example.com,(834)446-3578x38312,5.0
+1829,National Logistics,China,sales1829@example.com,(680)251-4110,4.01
+1830,Future Supply,China,sales1830@example.com,229-845-7086,4.2
+1831,Future Logistics,France,sales1831@example.com,(661)457-9650,4.01
+1832,National Solutions,Japan,sales1832@example.com,001-888-375-6909,4.17
+1833,Dynamic Retail,USA,sales1833@example.com,001-974-770-7344x8493,4.88
+1834,Elite Solutions,USA,sales1834@example.com,458-758-4057,4.32
+1835,Advanced Electronics,France,sales1835@example.com,(495)455-4619x7958,4.15
+1836,Prime Industries,Italy,sales1836@example.com,6402599645,4.31
+1837,Prime Industries,Canada,sales1837@example.com,232.655.1347,4.82
+1838,Vertex Logistics,Germany,sales1838@example.com,001-732-409-2282x548,4.78
+1839,Future Supply,Japan,sales1839@example.com,001-770-819-1577,4.93
+1840,United Logistics,South Korea,sales1840@example.com,4574911981,4.33
+1841,United Trading,USA,sales1841@example.com,686-631-4200x4520,3.9
+1842,Elite Manufacturing,South Korea,sales1842@example.com,+1-764-508-9118x26680,4.69
+1843,United Electronics,France,sales1843@example.com,937-940-6714,4.54
+1844,United Supply,UK,sales1844@example.com,(871)683-5559x120,4.6
+1845,National Industries,South Korea,sales1845@example.com,661-778-8070,4.27
+1846,Prime Solutions,Japan,sales1846@example.com,+1-905-957-8394,4.73
+1847,Prime Industries,Germany,sales1847@example.com,7292528998,3.61
+1848,NextGen Supply,Italy,sales1848@example.com,660.487.7619,3.71
+1849,Elite Retail,Italy,sales1849@example.com,924-813-2981x285,4.25
+1850,Dynamic Trading,China,sales1850@example.com,5186147933,4.57
+1851,Prime Distribution,Japan,sales1851@example.com,001-356-751-6168x5204,3.61
+1852,Advanced Technologies,Italy,sales1852@example.com,(895)674-1397,3.55
+1853,Prime Logistics,Japan,sales1853@example.com,826.844.9918,3.94
+1854,Prime Logistics,Japan,sales1854@example.com,835.912.2336x668,4.57
+1855,National Industries,France,sales1855@example.com,650-453-7855x73329,4.0
+1856,United Manufacturing,Japan,sales1856@example.com,393.914.8850x145,4.53
+1857,Elite Manufacturing,Italy,sales1857@example.com,503.431.5036,3.97
+1858,Vertex Electronics,South Korea,sales1858@example.com,(232)223-1836x6435,4.35
+1859,Advanced Manufacturing,France,sales1859@example.com,(990)656-7693x19259,4.69
+1860,Global Technologies,UK,sales1860@example.com,+1-502-887-9781x77406,3.96
+1861,National Retail,USA,sales1861@example.com,659.333.5207,4.04
+1862,National Technologies,France,sales1862@example.com,(833)834-3560x74566,4.01
+1863,United Trading,Canada,sales1863@example.com,814-961-7283x12502,3.64
+1864,Vertex Distribution,China,sales1864@example.com,001-613-380-2778x874,4.92
+1865,Prime Distribution,Canada,sales1865@example.com,940.655.6695x0132,4.93
+1866,Global Retail,Canada,sales1866@example.com,(283)240-1649,4.49
+1867,United Logistics,Canada,sales1867@example.com,001-671-708-3046x9950,3.74
+1868,Elite Technologies,Japan,sales1868@example.com,5256190029,3.59
+1869,Global Logistics,South Korea,sales1869@example.com,+1-465-294-4157x9610,4.7
+1870,Advanced Trading,Italy,sales1870@example.com,(389)925-6771x861,4.34
+1871,Vertex Technologies,China,sales1871@example.com,(491)639-7634x0374,3.9
+1872,Vertex Retail,UK,sales1872@example.com,(463)561-7561,3.98
+1873,National Manufacturing,Canada,sales1873@example.com,(470)560-7552x6876,4.45
+1874,National Supply,USA,sales1874@example.com,+1-230-395-1303x8325,4.02
+1875,United Industries,UK,sales1875@example.com,001-641-899-0629x418,4.45
+1876,United Retail,Canada,sales1876@example.com,(513)941-1358,4.41
+1877,NextGen Electronics,Japan,sales1877@example.com,(254)658-7607x208,3.55
+1878,NextGen Retail,Japan,sales1878@example.com,804-907-2450x48975,4.1
+1879,Advanced Industries,Japan,sales1879@example.com,+1-829-790-2102,3.78
+1880,Prime Solutions,India,sales1880@example.com,(705)687-9086x866,4.47
+1881,United Retail,South Korea,sales1881@example.com,(597)578-5100x407,4.41
+1882,Elite Trading,Canada,sales1882@example.com,526.537.0961,3.84
+1883,Dynamic Manufacturing,Japan,sales1883@example.com,(263)337-4573x3896,4.51
+1884,Prime Distribution,France,sales1884@example.com,(781)544-3296x84440,3.84
+1885,National Retail,Canada,sales1885@example.com,001-766-422-6530x9114,3.89
+1886,Dynamic Distribution,India,sales1886@example.com,+1-971-478-1160,4.05
+1887,Prime Industries,India,sales1887@example.com,281-510-0855,5.0
+1888,National Solutions,India,sales1888@example.com,(347)780-2749x136,4.4
+1889,Vertex Industries,Italy,sales1889@example.com,+1-340-933-1544,4.25
+1890,United Technologies,France,sales1890@example.com,+1-770-345-8983x3141,3.54
+1891,Future Supply,UK,sales1891@example.com,(754)514-8084x28215,4.76
+1892,Global Distribution,South Korea,sales1892@example.com,001-903-486-6141x55897,4.07
+1893,National Supply,UK,sales1893@example.com,(285)949-1028x6496,3.74
+1894,NextGen Trading,UK,sales1894@example.com,(910)314-2456,4.17
+1895,National Technologies,China,sales1895@example.com,(586)828-1131x77645,4.09
+1896,Future Manufacturing,Germany,sales1896@example.com,835.864.6728,4.58
+1897,Dynamic Solutions,France,sales1897@example.com,293.690.4934x174,4.25
+1898,National Manufacturing,China,sales1898@example.com,(968)654-5813x6242,4.08
+1899,Global Manufacturing,UK,sales1899@example.com,+1-214-204-7150x500,4.1
+1900,NextGen Logistics,USA,sales1900@example.com,(477)247-1032,4.08
+1901,Dynamic Supply,France,sales1901@example.com,(785)457-5240,4.53
+1902,NextGen Industries,Italy,sales1902@example.com,(837)238-1173x448,4.45
+1903,NextGen Electronics,USA,sales1903@example.com,001-222-715-6855x1977,4.31
+1904,Elite Electronics,USA,sales1904@example.com,260.725.3718x601,3.77
+1905,United Electronics,USA,sales1905@example.com,+1-224-793-4232x12064,4.81
+1906,Dynamic Industries,Japan,sales1906@example.com,218-224-8796,3.77
+1907,Dynamic Supply,UK,sales1907@example.com,001-541-514-9512x86617,3.99
+1908,Future Trading,UK,sales1908@example.com,813.503.5114x26226,4.26
+1909,Global Retail,Germany,sales1909@example.com,(392)731-2513x259,4.08
+1910,Vertex Distribution,USA,sales1910@example.com,618-683-7413x995,3.79
+1911,Elite Technologies,Germany,sales1911@example.com,796-304-0185,4.02
+1912,Global Technologies,UK,sales1912@example.com,9206169751,4.57
+1913,Prime Solutions,France,sales1913@example.com,(312)267-0729x1351,4.26
+1914,Advanced Supply,China,sales1914@example.com,001-300-709-7061x1058,4.4
+1915,NextGen Retail,UK,sales1915@example.com,+1-223-453-8805,3.87
+1916,Global Logistics,India,sales1916@example.com,(802)623-0827x88325,4.06
+1917,Dynamic Trading,USA,sales1917@example.com,664-653-2567x3803,3.86
+1918,Advanced Distribution,France,sales1918@example.com,(715)809-4191,4.14
+1919,Advanced Solutions,Japan,sales1919@example.com,(899)869-1696,4.45
+1920,Dynamic Trading,Italy,sales1920@example.com,345-611-2244x5071,4.33
+1921,Advanced Solutions,South Korea,sales1921@example.com,642-828-6918x000,4.35
+1922,Future Manufacturing,Japan,sales1922@example.com,550-261-7387,3.75
+1923,Elite Supply,Italy,sales1923@example.com,370-262-6404x0132,4.42
+1924,Elite Manufacturing,South Korea,sales1924@example.com,(794)650-0425,4.98
+1925,Global Supply,France,sales1925@example.com,9087248309,3.66
+1926,Advanced Industries,Canada,sales1926@example.com,400-405-3640x05642,4.03
+1927,Global Industries,Canada,sales1927@example.com,001-298-734-6426x868,3.82
+1928,Vertex Trading,Italy,sales1928@example.com,495.966.0019x3924,4.44
+1929,Advanced Electronics,Canada,sales1929@example.com,+1-254-446-8485x63927,4.99
+1930,NextGen Distribution,Italy,sales1930@example.com,+1-983-290-1771x522,4.72
+1931,Elite Supply,Canada,sales1931@example.com,967.703.5924x8666,4.81
+1932,Dynamic Supply,India,sales1932@example.com,578.888.1305,4.72
+1933,Vertex Industries,USA,sales1933@example.com,001-379-864-9694x323,4.67
+1934,Advanced Trading,Canada,sales1934@example.com,225.667.1601x510,4.68
+1935,Vertex Distribution,USA,sales1935@example.com,579-549-8243x3250,4.83
+1936,Prime Industries,Japan,sales1936@example.com,(554)530-6787,4.99
+1937,Vertex Logistics,China,sales1937@example.com,641-982-0788,3.85
+1938,United Logistics,USA,sales1938@example.com,977.492.8339,3.69
+1939,Elite Electronics,UK,sales1939@example.com,848.712.4662x4115,4.48
+1940,NextGen Supply,South Korea,sales1940@example.com,878.668.8418,4.58
+1941,Future Manufacturing,China,sales1941@example.com,(320)986-8273,3.87
+1942,NextGen Supply,Japan,sales1942@example.com,001-221-961-0375x4088,4.62
+1943,Dynamic Distribution,China,sales1943@example.com,767.265.1524x1992,4.76
+1944,Elite Supply,France,sales1944@example.com,001-575-290-5812x3983,4.58
+1945,Future Distribution,India,sales1945@example.com,955.612.3512,4.72
+1946,Advanced Retail,Japan,sales1946@example.com,2969924510,3.55
+1947,National Industries,Italy,sales1947@example.com,909.266.9528x70470,3.72
+1948,Prime Solutions,Germany,sales1948@example.com,001-367-444-1463x154,4.55
+1949,Elite Solutions,South Korea,sales1949@example.com,+1-710-674-5611x60618,4.42
+1950,Future Manufacturing,Japan,sales1950@example.com,950.889.6017x563,4.82
+1951,Advanced Solutions,UK,sales1951@example.com,+1-217-905-6727x4957,3.78
+1952,Global Trading,Japan,sales1952@example.com,001-634-666-9058x779,4.6
+1953,NextGen Solutions,China,sales1953@example.com,(454)374-7348x7236,4.99
+1954,Elite Distribution,South Korea,sales1954@example.com,+1-400-346-4748x219,4.2
+1955,Global Manufacturing,Italy,sales1955@example.com,428-720-6683x784,3.93
+1956,Future Logistics,China,sales1956@example.com,(710)870-0326x9114,3.89
+1957,Vertex Industries,China,sales1957@example.com,725.591.8819x81987,3.54
+1958,Vertex Technologies,Italy,sales1958@example.com,+1-440-748-5688,4.99
+1959,Prime Industries,USA,sales1959@example.com,541-416-7775x320,4.67
+1960,Global Technologies,India,sales1960@example.com,+1-480-598-7468x50550,3.62
+1961,Dynamic Logistics,UK,sales1961@example.com,210.455.6049x3058,4.78
+1962,Prime Solutions,South Korea,sales1962@example.com,001-595-226-0595,4.22
+1963,Vertex Technologies,India,sales1963@example.com,975.807.0363x9163,3.8
+1964,Advanced Technologies,China,sales1964@example.com,361-556-2134x5043,3.83
+1965,Dynamic Solutions,India,sales1965@example.com,576.542.7467x119,4.12
+1966,Future Retail,Japan,sales1966@example.com,+1-323-822-1093x898,4.42
+1967,Elite Solutions,UK,sales1967@example.com,(406)542-4922x33587,3.85
+1968,Vertex Manufacturing,USA,sales1968@example.com,8624952718,3.88
+1969,United Retail,Canada,sales1969@example.com,+1-863-873-0590x3251,4.76
+1970,National Trading,Canada,sales1970@example.com,+1-616-899-7779x73475,3.51
+1971,Advanced Logistics,Italy,sales1971@example.com,(772)540-9838,4.83
+1972,NextGen Logistics,China,sales1972@example.com,001-922-450-1610x036,3.63
+1973,Prime Technologies,UK,sales1973@example.com,722.709.1760x42326,3.73
+1974,Prime Trading,China,sales1974@example.com,(891)458-4657x048,4.72
+1975,Future Solutions,South Korea,sales1975@example.com,(320)551-1221,4.15
+1976,United Industries,South Korea,sales1976@example.com,688-457-9428x5837,4.3
+1977,NextGen Supply,Japan,sales1977@example.com,661.410.4253,3.94
+1978,Prime Manufacturing,Canada,sales1978@example.com,+1-851-856-9297,4.67
+1979,United Electronics,Canada,sales1979@example.com,(700)330-7531,4.88
+1980,United Retail,China,sales1980@example.com,349-502-2928x17446,3.87
+1981,Advanced Technologies,Japan,sales1981@example.com,+1-615-290-5010x011,4.72
+1982,Advanced Trading,Canada,sales1982@example.com,509.724.3719,3.69
+1983,Future Retail,Canada,sales1983@example.com,(716)660-9606x164,3.61
+1984,Elite Supply,China,sales1984@example.com,554.275.0740x2546,4.59
+1985,Global Industries,Italy,sales1985@example.com,(428)949-8297x3473,4.41
+1986,Future Supply,Canada,sales1986@example.com,001-577-943-4729,4.35
+1987,Dynamic Distribution,South Korea,sales1987@example.com,971.886.3235,4.78
+1988,NextGen Supply,UK,sales1988@example.com,302.873.2547,4.14
+1989,Elite Supply,Italy,sales1989@example.com,(533)302-9151x90627,4.28
+1990,United Industries,Japan,sales1990@example.com,+1-574-465-3400x858,4.34
+1991,Future Electronics,South Korea,sales1991@example.com,(347)856-0051x358,4.63
+1992,Future Electronics,South Korea,sales1992@example.com,866.820.6837,4.75
+1993,NextGen Supply,India,sales1993@example.com,904-249-2161,3.62
+1994,Prime Supply,Canada,sales1994@example.com,435.609.4183x3049,4.6
+1995,United Manufacturing,USA,sales1995@example.com,816.683.0688,4.93
+1996,National Manufacturing,China,sales1996@example.com,+1-660-430-7486x3834,4.52
+1997,Advanced Logistics,Italy,sales1997@example.com,469.819.0129,3.94
+1998,Elite Industries,Germany,sales1998@example.com,+1-656-823-0471x2937,4.3
+1999,Advanced Trading,Italy,sales1999@example.com,+1-315-645-4246x9847,4.25
+2000,Global Supply,India,sales2000@example.com,(538)478-2755x051,4.65
