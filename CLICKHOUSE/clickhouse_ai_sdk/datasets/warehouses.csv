@@ -1,0 +1,21 @@
+warehouse_id,warehouse_name,city,country,capacity
+1,North Hub,New York,USA,201984
+2,South Hub,Chicago,USA,200296
+3,East Hub,Dallas,USA,84160
+4,West Hub,Los Angeles,USA,237042
+5,Central Hub,Seattle,USA,181253
+6,Primary Distribution,London,UK,121906
+7,Regional DC,Berlin,Germany,147470
+8,Metro Warehouse,Paris,France,132960
+9,Express Hub,Tokyo,Japan,87976
+10,Logistics Center,Singapore,Singapore,111461
+11,Smart Warehouse,Dubai,UAE,85550
+12,National Depot,Mumbai,India,66800
+13,Mega Storage,Toronto,Canada,234111
+14,Retail Fulfillment,Sydney,Australia,172110
+15,International Hub,Amsterdam,Netherlands,112203
+16,City Warehouse,Riyadh,Saudi Arabia,178194
+17,Global Warehouse,Jeddah,Saudi Arabia,67160
+18,Premium Storage,Doha,Qatar,81787
+19,Supply Center,Bangalore,India,203768
+20,Main Distribution,Seoul,South Korea,203446
